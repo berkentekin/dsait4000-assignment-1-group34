@@ -1,4 +1,4 @@
-lake33/
+lake33*/*
 out/
 .venv*
 out/p2_a1_data.txt
@@ -11,3 +11,4 @@ out/data_only8.txt
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+*.pkl
