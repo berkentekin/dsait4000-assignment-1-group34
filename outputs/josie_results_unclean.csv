@@ -1,0 +1,611 @@
+Dataset 1,Column 1,Similar Column 1,Similar Column 2,Similar Column 3
+table_0.csv,"Bottom Quartile Professional and business fees
+Quart inférieur Intérêts et frais bancaires","Table table_1.csv, Column 31, Overlap: 271","Table table_6.csv, Column 12, Overlap: 271","Table table_2.csv, Column 43, Overlap: 271"
+table_0.csv,"Quality Indicator
+Indicateurs de qualité.8","Table table_2.csv, Column 54, Overlap: 4","Table table_1.csv, Column 38, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.13","Table table_2.csv, Column 7, Overlap: 381","Table table_1.csv, Column 7, Overlap: 381","Table table_6.csv, Column 12, Overlap: 380"
+table_0.csv,"Purchases, materials and sub-contracts
+Achats, matériaux et sous-traitances","Table table_6.csv, Column 12, Overlap: 3401","Table table_1.csv, Column 15, Overlap: 2737","Table table_2.csv, Column 15, Overlap: 2737"
+table_0.csv,"Lower Middle Total expenses
+2e quart Dépenses totales","Table table_6.csv, Column 12, Overlap: 3107","Table table_2.csv, Column 10, Overlap: 2874","Table table_1.csv, Column 10, Overlap: 2874"
+table_0.csv,"Bottom Quartile Net Profit/Loss
+quart inférieur Bénéfice/perte net","Table table_2.csv, Column 25, Overlap: 911","Table table_1.csv, Column 25, Overlap: 911","Table table_1.csv, Column 27, Overlap: 770"
+table_0.csv,"Top Quartile Net Profit/Loss
+Quart supérieur Bénéfice/perte net","Table table_2.csv, Column 7, Overlap: 2928","Table table_1.csv, Column 7, Overlap: 2928","Table table_6.csv, Column 12, Overlap: 2823"
+table_0.csv,"Lower Middle Net Profit/Loss
+2e quart Bénéfice/perte net","Table table_1.csv, Column 27, Overlap: 1246","Table table_2.csv, Column 27, Overlap: 1246","Table table_1.csv, Column 11, Overlap: 1089"
+table_0.csv,"Top Quartile Operating Expenses (indirect)
+Quart supérieur Dépenses d'exploitation (frais indirects)","Table table_2.csv, Column 23, Overlap: 4628","Table table_1.csv, Column 23, Overlap: 4628","Table table_6.csv, Column 12, Overlap: 3516"
+table_0.csv,"Upper Middle Other expenses
+3e quart Autres dépenses","Table table_6.csv, Column 12, Overlap: 1533","Table table_2.csv, Column 10, Overlap: 1379","Table table_1.csv, Column 10, Overlap: 1379"
+table_0.csv,"Upper Middle Operating Expenses (indirect)
+3e quart Dépenses d'exploitation (frais indirects)","Table table_6.csv, Column 12, Overlap: 3560","Table table_1.csv, Column 15, Overlap: 3006","Table table_2.csv, Column 15, Overlap: 3006"
+table_0.csv,"Bottom Quartile Interest and bank charges
+Quart inférieur Intérêts et frais bancaires","Table table_2.csv, Column 17, Overlap: 204","Table table_1.csv, Column 17, Overlap: 204","Table table_1.csv, Column 31, Overlap: 203"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.11","Table table_1.csv, Column 56, Overlap: 657","Table table_2.csv, Column 56, Overlap: 657","Table table_6.csv, Column 12, Overlap: 657"
+table_0.csv,"Bottom Quartile Closing Inventory
+Quart inférieurs Stock de fermeture","Table table_6.csv, Column 12, Overlap: 624","Table table_1.csv, Column 33, Overlap: 600","Table table_2.csv, Column 33, Overlap: 600"
+table_0.csv,"Top Quartile Purchases, materials and sub-contracts
+quart supérieurs Achats, matériaux et sous-traitances","Table table_2.csv, Column 4, Overlap: 4086","Table table_1.csv, Column 4, Overlap: 4086","Table table_6.csv, Column 12, Overlap: 3437"
+table_0.csv,"Lower Middle Amortization and depletion
+2e quart Amortissement et tarissement","Table table_6.csv, Column 12, Overlap: 511","Table table_2.csv, Column 35, Overlap: 505","Table table_1.csv, Column 33, Overlap: 505"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.15","Table table_1.csv, Column 22, Overlap: 82","Table table_1.csv, Column 24, Overlap: 82","Table table_2.csv, Column 7, Overlap: 82"
+table_0.csv,"Quality Indicator
+Indicateurs de qualité.18","Table table_2.csv, Column 54, Overlap: 4","Table table_1.csv, Column 38, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_0.csv,"Bottom Quartile Utilities and telephone/telecommunication
+ Quart inférieur Services publics et téléphone / télécommunication","Table table_1.csv, Column 47, Overlap: 202","Table table_2.csv, Column 8, Overlap: 202","Table table_2.csv, Column 17, Overlap: 202"
+table_0.csv,"Lower Middle Repairs and maintenance
+2e quart Réparations et entretien","Table table_2.csv, Column 35, Overlap: 386","Table table_1.csv, Column 35, Overlap: 386","Table table_1.csv, Column 33, Overlap: 385"
+table_0.csv,"Top Quartile Other expenses
+Quart supérieur Autres dépenses","Table table_6.csv, Column 12, Overlap: 2901","Table table_1.csv, Column 22, Overlap: 2737","Table table_2.csv, Column 22, Overlap: 2737"
+table_0.csv,"Upper Middle Advertising and promotion
+3e quart Publicité et promotion","Table table_2.csv, Column 35, Overlap: 374","Table table_1.csv, Column 33, Overlap: 374","Table table_1.csv, Column 35, Overlap: 374"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.8","Table table_6.csv, Column 12, Overlap: 914","Table table_2.csv, Column 29, Overlap: 904","Table table_1.csv, Column 29, Overlap: 904"
+table_0.csv,"Upper Middle Repairs and maintenance
+3e quart Réparations et entretien","Table table_6.csv, Column 12, Overlap: 605","Table table_2.csv, Column 35, Overlap: 596","Table table_1.csv, Column 35, Overlap: 596"
+table_0.csv,"Lower Middle Operating Expenses (indirect)
+2e Quart Dépenses d'exploitation (frais indirects)","Table table_6.csv, Column 12, Overlap: 2398","Table table_2.csv, Column 52, Overlap: 2210","Table table_1.csv, Column 52, Overlap: 2210"
+table_0.csv,"Lower Middle Other expenses
+2e quart Autres dépenses","Table table_6.csv, Column 12, Overlap: 956","Table table_2.csv, Column 10, Overlap: 853","Table table_1.csv, Column 10, Overlap: 853"
+table_0.csv,"Top Quartile Repairs and maintenance
+Quart supérieur Réparations et entretien","Table table_6.csv, Column 12, Overlap: 1174","Table table_1.csv, Column 22, Overlap: 1091","Table table_2.csv, Column 52, Overlap: 1091"
+table_0.csv,"Amortization and depletion
+Amortissement et tarissement","Table table_6.csv, Column 12, Overlap: 961","Table table_2.csv, Column 52, Overlap: 907","Table table_1.csv, Column 52, Overlap: 907"
+table_0.csv,"Quality Indicator
+Indicateurs de qualité.5","Table table_2.csv, Column 54, Overlap: 4","Table table_1.csv, Column 38, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_0.csv,"
+Labour and Commissions 
+Traitements et commissions","Table table_6.csv, Column 12, Overlap: 2522","Table table_2.csv, Column 10, Overlap: 2145","Table table_1.csv, Column 10, Overlap: 2145"
+table_0.csv,"Cost of Sales (direct expenses)
+Coût de ventes (frais direct)","Table table_6.csv, Column 12, Overlap: 3530","Table table_1.csv, Column 15, Overlap: 2807","Table table_2.csv, Column 15, Overlap: 2807"
+table_0.csv,"Upper Middle Rent
+3e quart Location","Table table_6.csv, Column 12, Overlap: 751","Table table_2.csv, Column 35, Overlap: 735","Table table_1.csv, Column 35, Overlap: 735"
+table_0.csv,"Top Quartile Advertising and promotion
+Quart supérieur Publicité et promotion","Table table_6.csv, Column 12, Overlap: 855","Table table_2.csv, Column 52, Overlap: 810","Table table_1.csv, Column 52, Overlap: 810"
+table_0.csv,"Lower Middle Insurance
+2e quart Assurances","Table table_1.csv, Column 47, Overlap: 184","Table table_2.csv, Column 8, Overlap: 184","Table table_2.csv, Column 17, Overlap: 184"
+table_0.csv,"Utilities and telephone/telecommunication 
+Services publics et téléphone / télécommunication","Table table_6.csv, Column 12, Overlap: 675","Table table_1.csv, Column 33, Overlap: 660","Table table_2.csv, Column 11, Overlap: 660"
+table_0.csv,"Bottom Quartile Other expenses
+Quart infoerieur Autres dépenses","Table table_6.csv, Column 12, Overlap: 623","Table table_1.csv, Column 31, Overlap: 575","Table table_2.csv, Column 4, Overlap: 575"
+table_0.csv,"Bottom Quartile Wages and Benefits
+quart inférieur Salaires et avantages sociaux","Table table_1.csv, Column 47, Overlap: 222","Table table_2.csv, Column 17, Overlap: 222","Table table_2.csv, Column 35, Overlap: 222"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.12","Table table_6.csv, Column 12, Overlap: 899","Table table_2.csv, Column 52, Overlap: 891","Table table_1.csv, Column 52, Overlap: 891"
+table_0.csv,"Top Quartile Closing Inventory
+Quart supérieurs Stock de fermeture","Table table_6.csv, Column 12, Overlap: 2697","Table table_2.csv, Column 43, Overlap: 2340","Table table_1.csv, Column 43, Overlap: 2340"
+table_0.csv,"Wages and Benefits
+Salaires et avantages sociaux","Table table_6.csv, Column 12, Overlap: 1587","Table table_2.csv, Column 10, Overlap: 1435","Table table_1.csv, Column 10, Overlap: 1435"
+table_0.csv,"Quality Indicator
+Indicateurs de qualité.9","Table table_2.csv, Column 54, Overlap: 4","Table table_1.csv, Column 38, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_0.csv,"Lower Middle Labour and Commissions
+2e quart Traitements et commissions","Table table_6.csv, Column 12, Overlap: 1266","Table table_2.csv, Column 52, Overlap: 1188","Table table_1.csv, Column 52, Overlap: 1188"
+table_0.csv,"Top Quartile Amortization and depletion
+Quart supérieur Amortissement et tarissement","Table table_6.csv, Column 12, Overlap: 1641","Table table_2.csv, Column 10, Overlap: 1461","Table table_1.csv, Column 10, Overlap: 1461"
+table_0.csv,"% of Businesses Reporting
+% des entreprises déclarantes.9","Table table_6.csv, Column 12, Overlap: 664","Table table_2.csv, Column 52, Overlap: 662","Table table_1.csv, Column 52, Overlap: 662"
+table_0.csv,"Lower Middle Cost of Sales
+2e quart Coût de ventes (frais direct)","Table table_6.csv, Column 12, Overlap: 1902","Table table_2.csv, Column 10, Overlap: 1655","Table table_1.csv, Column 10, Overlap: 1655"
+table_0.csv,"Other expenses
+Autres dépenses","Table table_6.csv, Column 12, Overlap: 1808","Table table_1.csv, Column 51, Overlap: 1662","Table table_2.csv, Column 51, Overlap: 1662"
+table_0.csv,"Top Quartile Delivery, shipping and warehouse expense
+Quart supérieur Livraison, expédition et entreposage","Table table_6.csv, Column 12, Overlap: 512","Table table_2.csv, Column 11, Overlap: 503","Table table_1.csv, Column 11, Overlap: 503"
+table_0.csv,"Upper Middle Utilities and telephone/telecommunication
+3e quart Services publics et téléphone / télécommunication","Table table_6.csv, Column 12, Overlap: 644","Table table_1.csv, Column 33, Overlap: 629","Table table_2.csv, Column 33, Overlap: 629"
+table_0.csv,"Upper Middle cost of Sales
+3e quart Coût de ventes (frais direct)","Table table_6.csv, Column 12, Overlap: 2921","Table table_1.csv, Column 15, Overlap: 2391","Table table_2.csv, Column 15, Overlap: 2391"
+table_0.csv,"Top Quartile Insurance
+Quart supérieur Assurances","Table table_6.csv, Column 12, Overlap: 532","Table table_2.csv, Column 35, Overlap: 531","Table table_1.csv, Column 35, Overlap: 531"
+table_0.csv,"Lower Middle Wages and Benefits
+2e quart Salaires et avantages sociaux","Table table_6.csv, Column 12, Overlap: 585","Table table_2.csv, Column 35, Overlap: 573","Table table_1.csv, Column 35, Overlap: 573"
+table_0.csv,"Rent
+Location","Table table_6.csv, Column 12, Overlap: 768","Table table_2.csv, Column 35, Overlap: 746","Table table_1.csv, Column 35, Overlap: 746"
+table_1.csv,"['Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion✔️'
+ 'Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion🥰']","Table table_2.csv, Column 17, Overlap: 128","Table table_2.csv, Column 35, Overlap: 128","Table table_0.csv, Column 29, Overlap: 128"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement💀'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🫶']","Table table_2.csv, Column 2, Overlap: 531","Table table_6.csv, Column 12, Overlap: 525","Table table_0.csv, Column 29, Overlap: 522"
+table_1.csv,"[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)😂""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]","Table table_2.csv, Column 3, Overlap: 1414","Table table_6.csv, Column 12, Overlap: 1378","Table table_0.csv, Column 29, Overlap: 1271"
+table_1.csv,"['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🫂'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances👉']","Table table_2.csv, Column 4, Overlap: 6169","Table table_0.csv, Column 14, Overlap: 4086","Table table_6.csv, Column 12, Overlap: 3540"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication😏']","Table table_2.csv, Column 6, Overlap: 413","Table table_2.csv, Column 35, Overlap: 412","Table table_0.csv, Column 44, Overlap: 412"
+table_1.csv,"['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net🫂'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😍']","Table table_2.csv, Column 7, Overlap: 3596","Table table_0.csv, Column 6, Overlap: 2928","Table table_6.csv, Column 12, Overlap: 2860"
+table_1.csv,"['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement🫂'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']","Table table_2.csv, Column 8, Overlap: 857","Table table_6.csv, Column 12, Overlap: 854","Table table_0.csv, Column 29, Overlap: 841"
+table_1.csv,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","Table table_2.csv, Column 9, Overlap: 713","Table table_6.csv, Column 12, Overlap: 712","Table table_2.csv, Column 52, Overlap: 710"
+table_1.csv,"['Lower Middle Total expenses\n2e quart Dépenses totales✔️'
+ 'Lower Middle Total expenses\n2e quart Dépenses totales❌']","Table table_2.csv, Column 10, Overlap: 3512","Table table_6.csv, Column 12, Overlap: 3174","Table table_0.csv, Column 4, Overlap: 2874"
+table_1.csv,"['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net🤔'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net⭐']","Table table_2.csv, Column 11, Overlap: 2118","Table table_0.csv, Column 6, Overlap: 1511","Table table_2.csv, Column 7, Overlap: 1510"
+table_1.csv,"['Advertising and promotion\nPublicité et promotion😎'
+ 'Advertising and promotion\nPublicité et promotion🤔']","Table table_2.csv, Column 12, Overlap: 442","Table table_6.csv, Column 12, Overlap: 439","Table table_2.csv, Column 33, Overlap: 438"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Wages and Benefits\nSalaires et avantages sociaux😩'
+ 'Wages and Benefits\nSalaires et avantages sociaux😭']","Table table_2.csv, Column 14, Overlap: 1598","Table table_6.csv, Column 12, Overlap: 1586","Table table_0.csv, Column 29, Overlap: 1449"
+table_1.csv,"[""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)😜""
+ ""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)😊""]","Table table_2.csv, Column 15, Overlap: 4739","Table table_6.csv, Column 12, Overlap: 3938","Table table_0.csv, Column 10, Overlap: 3006"
+table_1.csv,"[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💩""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture😊""]","Table table_2.csv, Column 16, Overlap: 1721","Table table_6.csv, Column 12, Overlap: 1680","Table table_2.csv, Column 10, Overlap: 1484"
+table_1.csv,"[""Opening Inventory\nStocks d'ouverture💩""
+ ""Opening Inventory\nStocks d'ouverture🤣""]","Table table_2.csv, Column 17, Overlap: 2013","Table table_6.csv, Column 12, Overlap: 1966","Table table_2.csv, Column 10, Overlap: 1714"
+table_1.csv,"[""Incorporation Status\n\nEtat d'incorporation😳""
+ ""Incorporation Status\n\nEtat d'incorporation🥰""]","Table table_13.csv, Column 17, Overlap: 3","Table table_7.csv, Column 1, Overlap: 3","Table table_7.csv, Column 10, Overlap: 3"
+table_1.csv,"['Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😜'
+ 'Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😎']","Table table_2.csv, Column 19, Overlap: 6482","Table table_6.csv, Column 12, Overlap: 3524","Table table_2.csv, Column 4, Overlap: 2666"
+table_1.csv,['Rent\nLocation😇' 'Rent\nLocation👉'],"Table table_2.csv, Column 20, Overlap: 777","Table table_6.csv, Column 12, Overlap: 774","Table table_0.csv, Column 29, Overlap: 759"
+table_1.csv,"['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😳'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux🤣']","Table table_2.csv, Column 21, Overlap: 1248","Table table_6.csv, Column 12, Overlap: 1237","Table table_0.csv, Column 29, Overlap: 1148"
+table_1.csv,"['Top Quartile Other expenses\nQuart supérieur Autres dépenses🔥'
+ 'Top Quartile Other expenses\nQuart supérieur Autres dépenses😂']","Table table_2.csv, Column 22, Overlap: 3299","Table table_6.csv, Column 12, Overlap: 2901","Table table_0.csv, Column 20, Overlap: 2737"
+table_1.csv,"[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🤔""]","Table table_2.csv, Column 23, Overlap: 6751","Table table_0.csv, Column 8, Overlap: 4628","Table table_6.csv, Column 12, Overlap: 3642"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","Table table_2.csv, Column 24, Overlap: 390","Table table_2.csv, Column 7, Overlap: 389","Table table_6.csv, Column 12, Overlap: 389"
+table_1.csv,"['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✨'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net🥰']","Table table_2.csv, Column 25, Overlap: 1108","Table table_0.csv, Column 5, Overlap: 911","Table table_2.csv, Column 27, Overlap: 772"
+table_1.csv,"[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🥹""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🎉""]","Table table_2.csv, Column 26, Overlap: 1042","Table table_6.csv, Column 12, Overlap: 1037","Table table_0.csv, Column 29, Overlap: 986"
+table_1.csv,"['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net❌'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net💩']","Table table_2.csv, Column 27, Overlap: 1512","Table table_0.csv, Column 7, Overlap: 1246","Table table_2.csv, Column 11, Overlap: 1121"
+table_1.csv,"['Lower Middle Rent\n2e quart Location😩'
+ 'Lower Middle Rent\n2e quart Location😭']","Table table_2.csv, Column 28, Overlap: 450","Table table_2.csv, Column 35, Overlap: 448","Table table_2.csv, Column 60, Overlap: 448"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","Table table_2.csv, Column 29, Overlap: 925","Table table_6.csv, Column 12, Overlap: 923","Table table_0.csv, Column 29, Overlap: 915"
+table_1.csv,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","Table table_2.csv, Column 30, Overlap: 895","Table table_6.csv, Column 12, Overlap: 894","Table table_2.csv, Column 52, Overlap: 887"
+table_1.csv,"['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux🤯'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😬']","Table table_2.csv, Column 31, Overlap: 2802","Table table_6.csv, Column 12, Overlap: 2559","Table table_2.csv, Column 15, Overlap: 2161"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)✨'
+ 'Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)⭐']","Table table_2.csv, Column 33, Overlap: 2013","Table table_6.csv, Column 12, Overlap: 1926","Table table_2.csv, Column 10, Overlap: 1685"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","Table table_2.csv, Column 34, Overlap: 700","Table table_6.csv, Column 12, Overlap: 698","Table table_2.csv, Column 56, Overlap: 697"
+table_1.csv,"['Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement🙌'
+ 'Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement😩']","Table table_2.csv, Column 35, Overlap: 1691","Table table_6.csv, Column 12, Overlap: 1667","Table table_0.csv, Column 29, Overlap: 1499"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","Table table_2.csv, Column 36, Overlap: 682","Table table_2.csv, Column 56, Overlap: 680","Table table_6.csv, Column 12, Overlap: 680"
+table_1.csv,"['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🫂']","Table table_2.csv, Column 35, Overlap: 218","Table table_2.csv, Column 37, Overlap: 218","Table table_0.csv, Column 27, Overlap: 218"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😬'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😂']","Table table_2.csv, Column 39, Overlap: 125","Table table_0.csv, Column 30, Overlap: 125","Table table_0.csv, Column 48, Overlap: 125"
+table_1.csv,['Province/Canada\n👉' 'Province/Canada\n💩'],"Table table_13.csv, Column 19, Overlap: 17","Table table_4.csv, Column 10, Overlap: 17","Table table_13.csv, Column 0, Overlap: 17"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Bottom Quartile Insurance\nQuart inférieur Assurances😭'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances👉']","Table table_0.csv, Column 23, Overlap: 116","Table table_2.csv, Column 8, Overlap: 116","Table table_0.csv, Column 32, Overlap: 116"
+table_1.csv,"['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜']","Table table_2.csv, Column 43, Overlap: 3196","Table table_6.csv, Column 12, Overlap: 2758","Table table_0.csv, Column 38, Overlap: 2340"
+table_1.csv,"['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage💯'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage⭐']","Table table_2.csv, Column 44, Overlap: 522","Table table_6.csv, Column 12, Overlap: 519","Table table_0.csv, Column 29, Overlap: 513"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien💕'
+ 'Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien💕']","Table table_2.csv, Column 17, Overlap: 208","Table table_0.csv, Column 41, Overlap: 208","Table table_2.csv, Column 35, Overlap: 208"
+table_1.csv,"['Upper Middle Rent\n3e quart Location😍'
+ 'Upper Middle Rent\n3e quart Location👍']","Table table_2.csv, Column 47, Overlap: 766","Table table_6.csv, Column 12, Overlap: 763","Table table_0.csv, Column 29, Overlap: 754"
+table_1.csv,"['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture❤️'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture🥰']","Table table_2.csv, Column 48, Overlap: 639","Table table_6.csv, Column 12, Overlap: 635","Table table_0.csv, Column 29, Overlap: 626"
+table_1.csv,"['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux📍'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux👍']","Table table_2.csv, Column 49, Overlap: 568","Table table_6.csv, Column 12, Overlap: 565","Table table_0.csv, Column 29, Overlap: 558"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,['Other expenses\nAutres dépenses💩' 'Other expenses\nAutres dépenses👈'],"Table table_2.csv, Column 51, Overlap: 1969","Table table_6.csv, Column 12, Overlap: 1834","Table table_0.csv, Column 45, Overlap: 1662"
+table_1.csv,"[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🥰""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🤔""]","Table table_2.csv, Column 52, Overlap: 2574","Table table_6.csv, Column 12, Overlap: 2429","Table table_0.csv, Column 24, Overlap: 2210"
+table_1.csv,['Naics code\n\nCode Scian❌' 'Naics code\n\nCode Scian👈'],"Table table_2.csv, Column 53, Overlap: 1896","Table table_4.csv, Column 10, Overlap: 343","Table table_7.csv, Column 4, Overlap: 284"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","Table table_2.csv, Column 55, Overlap: 353","Table table_2.csv, Column 7, Overlap: 352","Table table_6.csv, Column 12, Overlap: 352"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","Table table_2.csv, Column 56, Overlap: 928","Table table_6.csv, Column 12, Overlap: 926","Table table_0.csv, Column 29, Overlap: 918"
+table_1.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","Table table_0.csv, Column 2, Overlap: 87","Table table_0.csv, Column 29, Overlap: 87","Table table_2.csv, Column 7, Overlap: 87"
+table_1.csv,"['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires❌'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🫂']","Table table_2.csv, Column 58, Overlap: 289","Table table_2.csv, Column 35, Overlap: 286","Table table_6.csv, Column 12, Overlap: 286"
+table_1.csv,"['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😊'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😂']","Table table_2.csv, Column 59, Overlap: 238","Table table_0.csv, Column 3, Overlap: 238","Table table_0.csv, Column 48, Overlap: 238"
+table_1.csv,"['Lower Middle Labour and Commissions\n2e quart Traitements et commissions👏'
+ 'Lower Middle Labour and Commissions\n2e quart Traitements et commissions😳']","Table table_2.csv, Column 60, Overlap: 1288","Table table_6.csv, Column 12, Overlap: 1277","Table table_0.csv, Column 29, Overlap: 1226"
+table_1.csv,"['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication😜'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication✔️']","Table table_2.csv, Column 61, Overlap: 667","Table table_6.csv, Column 12, Overlap: 664","Table table_0.csv, Column 29, Overlap: 658"
+table_1.csv,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","Table table_2.csv, Column 54, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_2.csv, Column 5, Overlap: 4"
+table_1.csv,"['Top Quartile Insurance\nQuart supérieur Assurances🙏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances💀']","Table table_2.csv, Column 63, Overlap: 529","Table table_6.csv, Column 12, Overlap: 526","Table table_2.csv, Column 33, Overlap: 525"
+table_2.csv,"['Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion✨'
+ 'Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion❤️']","Table table_1.csv, Column 31, Overlap: 128","Table table_1.csv, Column 17, Overlap: 128","Table table_1.csv, Column 35, Overlap: 128"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🤯'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement✔️']","Table table_1.csv, Column 2, Overlap: 531","Table table_6.csv, Column 12, Overlap: 525","Table table_0.csv, Column 29, Overlap: 522"
+table_2.csv,"[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🤔""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]","Table table_1.csv, Column 3, Overlap: 1414","Table table_6.csv, Column 12, Overlap: 1378","Table table_0.csv, Column 29, Overlap: 1271"
+table_2.csv,"['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances😇'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🙌']","Table table_1.csv, Column 4, Overlap: 6169","Table table_0.csv, Column 14, Overlap: 4086","Table table_6.csv, Column 12, Overlap: 3540"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication👉']","Table table_1.csv, Column 6, Overlap: 413","Table table_1.csv, Column 33, Overlap: 412","Table table_1.csv, Column 35, Overlap: 412"
+table_2.csv,"['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net💩'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😤']","Table table_1.csv, Column 7, Overlap: 3596","Table table_0.csv, Column 6, Overlap: 2928","Table table_6.csv, Column 12, Overlap: 2860"
+table_2.csv,"['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😬'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']","Table table_1.csv, Column 8, Overlap: 857","Table table_6.csv, Column 12, Overlap: 854","Table table_0.csv, Column 29, Overlap: 841"
+table_2.csv,"['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']","Table table_1.csv, Column 9, Overlap: 713","Table table_6.csv, Column 12, Overlap: 712","Table table_1.csv, Column 52, Overlap: 710"
+table_2.csv,"['Lower Middle Total expenses\n2e quart Dépenses totales😇'
+ 'Lower Middle Total expenses\n2e quart Dépenses totales👉']","Table table_1.csv, Column 10, Overlap: 3512","Table table_6.csv, Column 12, Overlap: 3174","Table table_0.csv, Column 4, Overlap: 2874"
+table_2.csv,"['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👈'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👀']","Table table_1.csv, Column 11, Overlap: 2118","Table table_0.csv, Column 6, Overlap: 1511","Table table_1.csv, Column 7, Overlap: 1510"
+table_2.csv,"['Advertising and promotion\nPublicité et promotion😩'
+ 'Advertising and promotion\nPublicité et promotion🎉']","Table table_1.csv, Column 12, Overlap: 442","Table table_6.csv, Column 12, Overlap: 439","Table table_1.csv, Column 33, Overlap: 438"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Wages and Benefits\nSalaires et avantages sociaux🤔'
+ 'Wages and Benefits\nSalaires et avantages sociaux✔️']","Table table_1.csv, Column 14, Overlap: 1598","Table table_6.csv, Column 12, Overlap: 1586","Table table_0.csv, Column 29, Overlap: 1449"
+table_2.csv,"[""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)✨""
+ ""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)💕""]","Table table_1.csv, Column 15, Overlap: 4739","Table table_6.csv, Column 12, Overlap: 3938","Table table_0.csv, Column 10, Overlap: 3006"
+table_2.csv,"[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture🫂""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💀""]","Table table_1.csv, Column 16, Overlap: 1721","Table table_6.csv, Column 12, Overlap: 1680","Table table_1.csv, Column 10, Overlap: 1484"
+table_2.csv,"[""Opening Inventory\nStocks d'ouverture💯""
+ ""Opening Inventory\nStocks d'ouverture🙏""]","Table table_1.csv, Column 17, Overlap: 2013","Table table_6.csv, Column 12, Overlap: 1966","Table table_1.csv, Column 10, Overlap: 1714"
+table_2.csv,"[""Incorporation Status\n\nEtat d'incorporation👈""
+ ""Incorporation Status\n\nEtat d'incorporation🫂""]","Table table_13.csv, Column 17, Overlap: 3","Table table_7.csv, Column 1, Overlap: 3","Table table_7.csv, Column 10, Overlap: 3"
+table_2.csv,"['Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)👍'
+ 'Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😭']","Table table_1.csv, Column 19, Overlap: 6482","Table table_6.csv, Column 12, Overlap: 3524","Table table_1.csv, Column 4, Overlap: 2666"
+table_2.csv,['Rent\nLocation😬' 'Rent\nLocation🥹'],"Table table_1.csv, Column 20, Overlap: 777","Table table_6.csv, Column 12, Overlap: 774","Table table_0.csv, Column 29, Overlap: 759"
+table_2.csv,"['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😅'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux💩']","Table table_1.csv, Column 21, Overlap: 1248","Table table_6.csv, Column 12, Overlap: 1237","Table table_0.csv, Column 29, Overlap: 1148"
+table_2.csv,"['Top Quartile Other expenses\nQuart supérieur Autres dépenses👉'
+ 'Top Quartile Other expenses\nQuart supérieur Autres dépenses🫶']","Table table_1.csv, Column 22, Overlap: 3299","Table table_6.csv, Column 12, Overlap: 2901","Table table_0.csv, Column 20, Overlap: 2737"
+table_2.csv,"[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🔥""]","Table table_1.csv, Column 23, Overlap: 6751","Table table_0.csv, Column 8, Overlap: 4628","Table table_6.csv, Column 12, Overlap: 3642"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']","Table table_1.csv, Column 24, Overlap: 390","Table table_1.csv, Column 7, Overlap: 389","Table table_6.csv, Column 12, Overlap: 389"
+table_2.csv,"['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net😊'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✔️']","Table table_1.csv, Column 25, Overlap: 1108","Table table_0.csv, Column 5, Overlap: 911","Table table_1.csv, Column 27, Overlap: 772"
+table_2.csv,"[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture❌""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🫶""]","Table table_1.csv, Column 26, Overlap: 1042","Table table_6.csv, Column 12, Overlap: 1037","Table table_0.csv, Column 29, Overlap: 986"
+table_2.csv,"['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😤'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😍']","Table table_1.csv, Column 27, Overlap: 1512","Table table_0.csv, Column 7, Overlap: 1246","Table table_1.csv, Column 11, Overlap: 1121"
+table_2.csv,"['Lower Middle Rent\n2e quart Location😡'
+ 'Lower Middle Rent\n2e quart Location😎']","Table table_1.csv, Column 28, Overlap: 450","Table table_1.csv, Column 35, Overlap: 448","Table table_1.csv, Column 60, Overlap: 448"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']","Table table_1.csv, Column 29, Overlap: 925","Table table_6.csv, Column 12, Overlap: 923","Table table_0.csv, Column 29, Overlap: 915"
+table_2.csv,"['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']","Table table_1.csv, Column 30, Overlap: 895","Table table_6.csv, Column 12, Overlap: 894","Table table_1.csv, Column 52, Overlap: 887"
+table_2.csv,"['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😭'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux💩']","Table table_1.csv, Column 31, Overlap: 2802","Table table_6.csv, Column 12, Overlap: 2559","Table table_1.csv, Column 15, Overlap: 2161"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)👀'
+ 'Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)👈']","Table table_1.csv, Column 33, Overlap: 2013","Table table_6.csv, Column 12, Overlap: 1926","Table table_1.csv, Column 10, Overlap: 1685"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']","Table table_1.csv, Column 34, Overlap: 700","Table table_6.csv, Column 12, Overlap: 698","Table table_1.csv, Column 56, Overlap: 697"
+table_2.csv,"['Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement🫶'
+ 'Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement👀']","Table table_1.csv, Column 35, Overlap: 1691","Table table_6.csv, Column 12, Overlap: 1667","Table table_0.csv, Column 29, Overlap: 1499"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']","Table table_1.csv, Column 36, Overlap: 682","Table table_1.csv, Column 56, Overlap: 680","Table table_6.csv, Column 12, Overlap: 680"
+table_2.csv,"['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux😩'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯']","Table table_0.csv, Column 27, Overlap: 218","Table table_1.csv, Column 35, Overlap: 218","Table table_1.csv, Column 37, Overlap: 218"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage🙌'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage❤️']","Table table_1.csv, Column 39, Overlap: 125","Table table_0.csv, Column 30, Overlap: 125","Table table_0.csv, Column 48, Overlap: 125"
+table_2.csv,['Province/Canada\n💯' 'Province/Canada\n👈'],"Table table_13.csv, Column 19, Overlap: 17","Table table_1.csv, Column 40, Overlap: 17","Table table_4.csv, Column 10, Overlap: 17"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Bottom Quartile Insurance\nQuart inférieur Assurances😡'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances😳']","Table table_1.csv, Column 47, Overlap: 116","Table table_0.csv, Column 23, Overlap: 116","Table table_0.csv, Column 32, Overlap: 116"
+table_2.csv,"['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🤔'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🙏']","Table table_1.csv, Column 43, Overlap: 3196","Table table_6.csv, Column 12, Overlap: 2758","Table table_0.csv, Column 38, Overlap: 2340"
+table_2.csv,"['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage📍'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage😤']","Table table_1.csv, Column 44, Overlap: 522","Table table_6.csv, Column 12, Overlap: 519","Table table_0.csv, Column 29, Overlap: 513"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien👀'
+ 'Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien😩']","Table table_1.csv, Column 47, Overlap: 208","Table table_0.csv, Column 41, Overlap: 208","Table table_1.csv, Column 31, Overlap: 208"
+table_2.csv,"['Upper Middle Rent\n3e quart Location👏'
+ 'Upper Middle Rent\n3e quart Location🤯']","Table table_1.csv, Column 47, Overlap: 766","Table table_6.csv, Column 12, Overlap: 763","Table table_0.csv, Column 29, Overlap: 754"
+table_2.csv,"['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture💯'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture😬']","Table table_1.csv, Column 48, Overlap: 639","Table table_6.csv, Column 12, Overlap: 635","Table table_0.csv, Column 29, Overlap: 626"
+table_2.csv,"['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🎉'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🫂']","Table table_1.csv, Column 49, Overlap: 568","Table table_6.csv, Column 12, Overlap: 565","Table table_0.csv, Column 29, Overlap: 558"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,['Other expenses\nAutres dépenses👍' 'Other expenses\nAutres dépenses😬'],"Table table_1.csv, Column 51, Overlap: 1969","Table table_6.csv, Column 12, Overlap: 1834","Table table_0.csv, Column 45, Overlap: 1662"
+table_2.csv,"[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)✔️""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)💕""]","Table table_1.csv, Column 52, Overlap: 2574","Table table_6.csv, Column 12, Overlap: 2429","Table table_0.csv, Column 24, Overlap: 2210"
+table_2.csv,['Naics code\n\nCode Scian🤔' 'Naics code\n\nCode Scian🤯'],"Table table_1.csv, Column 53, Overlap: 1896","Table table_4.csv, Column 10, Overlap: 343","Table table_7.csv, Column 4, Overlap: 284"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']","Table table_1.csv, Column 55, Overlap: 353","Table table_1.csv, Column 7, Overlap: 352","Table table_6.csv, Column 12, Overlap: 352"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']","Table table_1.csv, Column 56, Overlap: 928","Table table_6.csv, Column 12, Overlap: 926","Table table_0.csv, Column 29, Overlap: 918"
+table_2.csv,"['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']","Table table_1.csv, Column 22, Overlap: 87","Table table_1.csv, Column 24, Overlap: 87","Table table_0.csv, Column 2, Overlap: 87"
+table_2.csv,"['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🤔'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🎉']","Table table_1.csv, Column 58, Overlap: 289","Table table_6.csv, Column 12, Overlap: 286","Table table_1.csv, Column 35, Overlap: 286"
+table_2.csv,"['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage📍'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage🤯']","Table table_0.csv, Column 3, Overlap: 238","Table table_1.csv, Column 59, Overlap: 238","Table table_0.csv, Column 48, Overlap: 238"
+table_2.csv,"['Lower Middle Labour and Commissions\n2e quart Traitements et commissions😳'
+ 'Lower Middle Labour and Commissions\n2e quart Traitements et commissions💕']","Table table_1.csv, Column 60, Overlap: 1288","Table table_6.csv, Column 12, Overlap: 1277","Table table_0.csv, Column 29, Overlap: 1226"
+table_2.csv,"['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication👈'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication🎉']","Table table_1.csv, Column 61, Overlap: 667","Table table_6.csv, Column 12, Overlap: 664","Table table_0.csv, Column 29, Overlap: 658"
+table_2.csv,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']","Table table_1.csv, Column 38, Overlap: 4","Table table_0.csv, Column 17, Overlap: 4","Table table_1.csv, Column 41, Overlap: 4"
+table_2.csv,"['Top Quartile Insurance\nQuart supérieur Assurances😏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances😎']","Table table_1.csv, Column 63, Overlap: 529","Table table_6.csv, Column 12, Overlap: 526","Table table_1.csv, Column 33, Overlap: 525"
+table_3.csv,"ï»¿""REF_DATE""","Table table_6.csv, Column 0, Overlap: 2","Table table_7.csv, Column 4, Overlap: 2","Table table_13.csv, Column 9, Overlap: 2"
+table_3.csv,GEO,"Table table_4.csv, Column 1, Overlap: 4","Table table_5.csv, Column 1, Overlap: 4","Table table_6.csv, Column 1, Overlap: 4"
+table_3.csv,DGUID,"Table table_6.csv, Column 2, Overlap: 4","Table table_4.csv, Column 2, Overlap: 4",
+table_3.csv,UOM,"Table table_5.csv, Column 5, Overlap: 1","Table table_5.csv, Column 6, Overlap: 1",
+table_3.csv,UOM_ID,"Table table_4.csv, Column 10, Overlap: 1","Table table_12.csv, Column 0, Overlap: 1","Table table_13.csv, Column 10, Overlap: 1"
+table_3.csv,SCALAR_FACTOR,"Table table_5.csv, Column 8, Overlap: 1",,
+table_3.csv,SCALAR_ID,"Table table_13.csv, Column 26, Overlap: 1","Table table_7.csv, Column 4, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_3.csv,Cl,"Table table_6.csv, Column 11, Overlap: 243",,
+table_3.csv,c,"Table table_6.csv, Column 12, Overlap: 903","Table table_0.csv, Column 29, Overlap: 895","Table table_2.csv, Column 11, Overlap: 889"
+table_3.csv,STATUS,"Table table_13.csv, Column 19, Overlap: 4","Table table_2.csv, Column 54, Overlap: 3","Table table_1.csv, Column 38, Overlap: 3"
+table_3.csv,DEx,"Table table_13.csv, Column 17, Overlap: 1","Table table_7.csv, Column 1, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_4.csv,['GEO😭' 'GEO💕'],"Table table_5.csv, Column 1, Overlap: 11","Table table_6.csv, Column 1, Overlap: 11","Table table_3.csv, Column 1, Overlap: 4"
+table_4.csv,['DGUID🫶' 'DGUID🤔'],"Table table_6.csv, Column 2, Overlap: 11","Table table_3.csv, Column 2, Overlap: 4",
+table_4.csv,['UOM_ID📍' 'UOM_ID😜'],"Table table_13.csv, Column 10, Overlap: 1","Table table_1.csv, Column 53, Overlap: 1","Table table_13.csv, Column 0, Overlap: 1"
+table_4.csv,['SCALAR_FACTOR😍' 'SCALAR_FACTOR👉'],"Table table_6.csv, Column 8, Overlap: 1",,
+table_4.csv,['SCALAR_ID👀' 'SCALAR_ID😏'],"Table table_13.csv, Column 17, Overlap: 1","Table table_7.csv, Column 1, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_4.csv,['COORDINATE😅' 'COORDINATE🙏'],"Table table_7.csv, Column 32, Overlap: 149","Table table_13.csv, Column 13, Overlap: 142","Table table_1.csv, Column 47, Overlap: 135"
+table_4.csv,['VALUE👀' 'VALUE😏'],"Table table_13.csv, Column 33, Overlap: 4793","Table table_7.csv, Column 4, Overlap: 3962","Table table_13.csv, Column 9, Overlap: 3398"
+table_4.csv,['DECIMALS❌' 'DECIMALS😤'],"Table table_13.csv, Column 26, Overlap: 1","Table table_7.csv, Column 4, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_5.csv,"ï»¿""t","Table table_4.csv, Column 10, Overlap: 3","Table table_6.csv, Column 0, Overlap: 3","Table table_7.csv, Column 4, Overlap: 3"
+table_5.csv,GEO,"Table table_4.csv, Column 1, Overlap: 11","Table table_6.csv, Column 1, Overlap: 11","Table table_3.csv, Column 1, Overlap: 4"
+table_5.csv,Sex,"Table table_6.csv, Column 5, Overlap: 3",,
+table_5.csv,Characteristics,"Table table_3.csv, Column 6, Overlap: 1",,
+table_5.csv,Ul,"Table table_6.csv, Column 6, Overlap: 1","Table table_3.csv, Column 6, Overlap: 1",
+table_5.csv,UOM_ID,"Table table_4.csv, Column 10, Overlap: 2","Table table_12.csv, Column 0, Overlap: 2","Table table_13.csv, Column 10, Overlap: 2"
+table_5.csv,SCALAR_FACTOR,"Table table_3.csv, Column 8, Overlap: 1",,
+table_5.csv,SCALAR_ID,"Table table_13.csv, Column 26, Overlap: 1","Table table_7.csv, Column 4, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_5.csv,VALUE,"Table table_6.csv, Column 12, Overlap: 741","Table table_0.csv, Column 3, Overlap: 705","Table table_1.csv, Column 56, Overlap: 701"
+table_5.csv,DECIMALS,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_13.csv, Column 32, Overlap: 2"
+table_6.csv,1987,"Table table_7.csv, Column 4, Overlap: 36","Table table_13.csv, Column 9, Overlap: 33","Table table_4.csv, Column 10, Overlap: 27"
+table_6.csv,Canada,"Table table_5.csv, Column 1, Overlap: 11","Table table_4.csv, Column 1, Overlap: 11","Table table_3.csv, Column 1, Overlap: 4"
+table_6.csv,2016A000011124,"Table table_4.csv, Column 2, Overlap: 11","Table table_3.csv, Column 2, Overlap: 4",
+table_6.csv,Both sexes,"Table table_5.csv, Column 3, Overlap: 3",,
+table_6.csv,Persons,"Table table_5.csv, Column 6, Overlap: 1",,
+table_6.csv,249,"Table table_4.csv, Column 10, Overlap: 2","Table table_7.csv, Column 17, Overlap: 2","Table table_12.csv, Column 0, Overlap: 2"
+table_6.csv,thousands,"Table table_4.csv, Column 6, Overlap: 1",,
+table_6.csv,3,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_13.csv, Column 32, Overlap: 2"
+table_6.csv,1.1.1.1,"Table table_3.csv, Column 11, Overlap: 243",,
+table_6.csv,12333.0,"Table table_1.csv, Column 15, Overlap: 3938","Table table_2.csv, Column 15, Overlap: 3938","Table table_2.csv, Column 23, Overlap: 3642"
+table_6.csv,1,"Table table_13.csv, Column 17, Overlap: 1","Table table_7.csv, Column 1, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1"
+table_7.csv,PIRN_UECILNSG_ET,"Table table_13.csv, Column 19, Overlap: 44","Table table_4.csv, Column 10, Overlap: 44","Table table_13.csv, Column 0, Overlap: 44"
+table_7.csv,MPATEYNI_DE,"Table table_13.csv, Column 17, Overlap: 4","Table table_13.csv, Column 29, Overlap: 4","Table table_18.csv, Column 5, Overlap: 4"
+table_7.csv,WAIFE_EDS,"Table table_13.csv, Column 17, Overlap: 5","Table table_13.csv, Column 29, Overlap: 5","Table table_18.csv, Column 5, Overlap: 5"
+table_7.csv,ANSCCROC_TEOSL,"Table table_13.csv, Column 17, Overlap: 3","Table table_13.csv, Column 29, Overlap: 3","Table table_13.csv, Column 32, Overlap: 3"
+table_7.csv,PAEAPAI_CTCKY,"Table table_13.csv, Column 9, Overlap: 4140","Table table_4.csv, Column 10, Overlap: 3962","Table table_13.csv, Column 33, Overlap: 3557"
+table_7.csv,AGNEUGSN_I_VLIT,"Table table_13.csv, Column 19, Overlap: 49","Table table_4.csv, Column 10, Overlap: 49","Table table_13.csv, Column 0, Overlap: 49"
+table_7.csv,CRVSUE_F,"Table table_13.csv, Column 20, Overlap: 179","Table table_13.csv, Column 21, Overlap: 143","Table table_13.csv, Column 13, Overlap: 124"
+table_7.csv,CUE_RSVA,"Table table_13.csv, Column 20, Overlap: 3263","Table table_13.csv, Column 13, Overlap: 2550","Table table_13.csv, Column 21, Overlap: 398"
+table_7.csv,POOAMIBECCITNR_N,"Table table_13.csv, Column 19, Overlap: 58","Table table_4.csv, Column 10, Overlap: 58","Table table_13.csv, Column 0, Overlap: 58"
+table_7.csv,IPOGSUR_ED,"Table table_13.csv, Column 26, Overlap: 1","Table table_13.csv, Column 32, Overlap: 1","Table table_13.csv, Column 35, Overlap: 1"
+table_7.csv,GSDR_EAB,"Table table_13.csv, Column 20, Overlap: 2140","Table table_13.csv, Column 13, Overlap: 1534","Table table_13.csv, Column 21, Overlap: 391"
+table_7.csv,CSERVU_C,"Table table_13.csv, Column 20, Overlap: 548","Table table_13.csv, Column 13, Overlap: 360","Table table_13.csv, Column 21, Overlap: 327"
+table_7.csv,SO_THWEUD_HLIDRR,"Table table_18.csv, Column 5, Overlap: 24","Table table_13.csv, Column 19, Overlap: 24","Table table_4.csv, Column 10, Overlap: 24"
+table_7.csv,TRTO_KCUURE,"Table table_13.csv, Column 32, Overlap: 2","Table table_13.csv, Column 35, Overlap: 2","Table table_18.csv, Column 5, Overlap: 2"
+table_7.csv,VAEGIRTL_N,"Table table_18.csv, Column 5, Overlap: 5","Table table_13.csv, Column 19, Overlap: 5","Table table_4.csv, Column 10, Overlap: 5"
+table_7.csv,UCOAR_DNBE,"Table table_4.csv, Column 10, Overlap: 381","Table table_13.csv, Column 27, Overlap: 379","Table table_13.csv, Column 19, Overlap: 350"
+table_7.csv,SPULTD_ORYHEE,"Table table_13.csv, Column 17, Overlap: 6","Table table_13.csv, Column 29, Overlap: 6","Table table_18.csv, Column 5, Overlap: 6"
+table_7.csv,RT_LEAFEIUUQIOR,"Table table_18.csv, Column 5, Overlap: 10","Table table_13.csv, Column 19, Overlap: 10","Table table_4.csv, Column 10, Overlap: 10"
+table_7.csv,SU_RVF,"Table table_13.csv, Column 32, Overlap: 2","Table table_13.csv, Column 35, Overlap: 2","Table table_18.csv, Column 5, Overlap: 2"
+table_7.csv,TISGPY_ENAL,"Table table_18.csv, Column 5, Overlap: 5","Table table_13.csv, Column 19, Overlap: 5","Table table_4.csv, Column 10, Overlap: 5"
+table_7.csv,SDDH_WUERTLOIH_L,"Table table_18.csv, Column 5, Overlap: 23","Table table_13.csv, Column 19, Overlap: 23","Table table_4.csv, Column 10, Overlap: 23"
+table_7.csv,PAKRNPAKIE_G,"Table table_13.csv, Column 32, Overlap: 4","Table table_18.csv, Column 5, Overlap: 4","Table table_13.csv, Column 19, Overlap: 4"
+table_7.csv,UANTITLCB_IIUFLY,"Table table_13.csv, Column 32, Overlap: 2","Table table_13.csv, Column 35, Overlap: 2","Table table_18.csv, Column 5, Overlap: 2"
+table_7.csv,S_EODMVLGUT_UORP,"Table table_13.csv, Column 29, Overlap: 13","Table table_18.csv, Column 5, Overlap: 13","Table table_13.csv, Column 19, Overlap: 13"
+table_7.csv,Synset('ownership.n.01'),"Table table_13.csv, Column 29, Overlap: 8","Table table_18.csv, Column 5, Overlap: 8","Table table_13.csv, Column 19, Overlap: 8"
+table_7.csv,HOV,"Table table_13.csv, Column 32, Overlap: 4","Table table_18.csv, Column 5, Overlap: 4","Table table_13.csv, Column 19, Overlap: 4"
+table_7.csv,GDA_SREF,"Table table_13.csv, Column 20, Overlap: 224","Table table_13.csv, Column 21, Overlap: 168","Table table_13.csv, Column 13, Overlap: 150"
+table_7.csv,S_VRUA,"Table table_13.csv, Column 32, Overlap: 2","Table table_13.csv, Column 35, Overlap: 2","Table table_18.csv, Column 5, Overlap: 2"
+table_7.csv,PAL_EEKNAS,"Table table_13.csv, Column 19, Overlap: 12","Table table_4.csv, Column 10, Overlap: 12","Table table_13.csv, Column 0, Overlap: 12"
+table_7.csv,PAYTMPNETE_VE,"Table table_13.csv, Column 17, Overlap: 6","Table table_13.csv, Column 29, Overlap: 6","Table table_18.csv, Column 5, Overlap: 6"
+table_7.csv,BELGN_IRS,"Table table_13.csv, Column 13, Overlap: 8482","Table table_13.csv, Column 20, Overlap: 2808","Table table_12.csv, Column 9, Overlap: 1105"
+table_7.csv,GRE_SADE,"Table table_13.csv, Column 20, Overlap: 485","Table table_13.csv, Column 13, Overlap: 323","Table table_13.csv, Column 21, Overlap: 262"
+table_10.csv,271,"Table table_12.csv, Column 0, Overlap: 361","Table table_11.csv, Column 0, Overlap: 361","Table table_4.csv, Column 10, Overlap: 261"
+table_10.csv,MSNG,"Table table_12.csv, Column 0, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1"
+table_10.csv,281.0,"Table table_12.csv, Column 2, Overlap: 6","Table table_11.csv, Column 2, Overlap: 6","Table table_1.csv, Column 15, Overlap: 6"
+table_10.csv,MSNG.1,"Table table_11.csv, Column 3, Overlap: 12","Table table_2.csv, Column 60, Overlap: 10","Table table_0.csv, Column 29, Overlap: 10"
+table_10.csv,Observational data provided by NAV CANADA. All rights reserved.,"Table table_11.csv, Column 4, Overlap: 1","Table table_12.csv, Column 4, Overlap: 1",
+table_10.csv,279.4,"Table table_0.csv, Column 10, Overlap: 6","Table table_12.csv, Column 5, Overlap: 6","Table table_1.csv, Column 52, Overlap: 6"
+table_10.csv,995.6,"Table table_12.csv, Column 6, Overlap: 399","Table table_11.csv, Column 6, Overlap: 399","Table table_1.csv, Column 23, Overlap: 132"
+table_10.csv,6115529,"Table table_12.csv, Column 7, Overlap: 6","Table table_11.csv, Column 7, Overlap: 6",
+table_10.csv,MSNG.2,"Table table_11.csv, Column 8, Overlap: 32","Table table_12.csv, Column 8, Overlap: 32","Table table_13.csv, Column 19, Overlap: 3"
+table_10.csv,20.004,"Table table_12.csv, Column 9, Overlap: 1221","Table table_11.csv, Column 9, Overlap: 1221","Table table_7.csv, Column 32, Overlap: 1105"
+table_10.csv,2300.0,"Table table_12.csv, Column 10, Overlap: 30","Table table_11.csv, Column 10, Overlap: 30","Table table_6.csv, Column 12, Overlap: 7"
+table_10.csv,MSNG.3,"Table table_11.csv, Column 11, Overlap: 15","Table table_12.csv, Column 11, Overlap: 15","Table table_1.csv, Column 47, Overlap: 13"
+table_10.csv,270,"Table table_12.csv, Column 0, Overlap: 37","Table table_11.csv, Column 0, Overlap: 37","Table table_12.csv, Column 12, Overlap: 37"
+table_10.csv,MSNG.4,"Table table_11.csv, Column 11, Overlap: 6","Table table_11.csv, Column 20, Overlap: 6","Table table_11.csv, Column 13, Overlap: 6"
+table_10.csv,20.4,"Table table_12.csv, Column 14, Overlap: 22","Table table_11.csv, Column 14, Overlap: 22","Table table_1.csv, Column 47, Overlap: 18"
+table_10.csv,/data/nav_canada/observation/atmospheric/surface_weather/awos_panam-1.0-ascii/decoded_enhanced-xml-2.0/201507112113/6115529/cyqa/orig/data_1,"Table table_11.csv, Column 15, Overlap: 37749","Table table_12.csv, Column 15, Overlap: 34165",
+table_10.csv,43.3,"Table table_12.csv, Column 16, Overlap: 656","Table table_11.csv, Column 16, Overlap: 656","Table table_6.csv, Column 12, Overlap: 654"
+table_10.csv,MSNG.5,"Table table_12.csv, Column 0, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1"
+table_10.csv,MSNG.6,"Table table_12.csv, Column 0, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1"
+table_10.csv,0.0,"Table table_12.csv, Column 19, Overlap: 10","Table table_11.csv, Column 19, Overlap: 10","Table table_1.csv, Column 47, Overlap: 9"
+table_10.csv,MSNG.7,"Table table_11.csv, Column 11, Overlap: 12","Table table_11.csv, Column 20, Overlap: 12","Table table_12.csv, Column 11, Overlap: 12"
+table_10.csv,2015/07/11 21:13,"Table table_11.csv, Column 21, Overlap: 10044","Table table_12.csv, Column 21, Overlap: 10009",
+table_11.csv,271,"Table table_12.csv, Column 0, Overlap: 361","Table table_10.csv, Column 0, Overlap: 361","Table table_4.csv, Column 10, Overlap: 261"
+table_11.csv,MSNG,"Table table_12.csv, Column 0, Overlap: 1","Table table_10.csv, Column 1, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1"
+table_11.csv,281.0,"Table table_12.csv, Column 2, Overlap: 6","Table table_1.csv, Column 15, Overlap: 6","Table table_6.csv, Column 12, Overlap: 6"
+table_11.csv,MSNG.1,"Table table_10.csv, Column 3, Overlap: 12","Table table_2.csv, Column 60, Overlap: 10","Table table_0.csv, Column 29, Overlap: 10"
+table_11.csv,Observational data provided by NAV CANADA. All rights reserved.,"Table table_12.csv, Column 4, Overlap: 1","Table table_10.csv, Column 4, Overlap: 1",
+table_11.csv,279.4,"Table table_0.csv, Column 10, Overlap: 6","Table table_12.csv, Column 5, Overlap: 6","Table table_1.csv, Column 52, Overlap: 6"
+table_11.csv,995.6,"Table table_12.csv, Column 6, Overlap: 399","Table table_10.csv, Column 6, Overlap: 399","Table table_1.csv, Column 23, Overlap: 132"
+table_11.csv,6115529,"Table table_12.csv, Column 7, Overlap: 6","Table table_10.csv, Column 7, Overlap: 6",
+table_11.csv,MSNG.2,"Table table_12.csv, Column 8, Overlap: 32","Table table_10.csv, Column 8, Overlap: 32","Table table_13.csv, Column 19, Overlap: 3"
+table_11.csv,20.004,"Table table_12.csv, Column 9, Overlap: 1221","Table table_10.csv, Column 9, Overlap: 1221","Table table_7.csv, Column 32, Overlap: 1105"
+table_11.csv,2300.0,"Table table_12.csv, Column 10, Overlap: 30","Table table_10.csv, Column 10, Overlap: 30","Table table_6.csv, Column 12, Overlap: 7"
+table_11.csv,MSNG.3,"Table table_10.csv, Column 11, Overlap: 15","Table table_12.csv, Column 11, Overlap: 15","Table table_1.csv, Column 47, Overlap: 13"
+table_11.csv,270,"Table table_12.csv, Column 0, Overlap: 37","Table table_12.csv, Column 12, Overlap: 37","Table table_10.csv, Column 0, Overlap: 37"
+table_11.csv,MSNG.4,"Table table_10.csv, Column 11, Overlap: 6","Table table_10.csv, Column 20, Overlap: 6","Table table_10.csv, Column 13, Overlap: 6"
+table_11.csv,20.4,"Table table_12.csv, Column 14, Overlap: 22","Table table_10.csv, Column 14, Overlap: 22","Table table_1.csv, Column 47, Overlap: 18"
+table_11.csv,/data/nav_canada/observation/atmospheric/surface_weather/awos_panam-1.0-ascii/decoded_enhanced-xml-2.0/201507112113/6115529/cyqa/orig/data_1,"Table table_10.csv, Column 15, Overlap: 37749","Table table_12.csv, Column 15, Overlap: 34165",
+table_11.csv,43.3,"Table table_10.csv, Column 16, Overlap: 656","Table table_12.csv, Column 16, Overlap: 656","Table table_6.csv, Column 12, Overlap: 654"
+table_11.csv,MSNG.5,"Table table_12.csv, Column 0, Overlap: 1","Table table_10.csv, Column 1, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1"
+table_11.csv,MSNG.6,"Table table_12.csv, Column 0, Overlap: 1","Table table_10.csv, Column 1, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1"
+table_11.csv,0.0,"Table table_12.csv, Column 19, Overlap: 10","Table table_10.csv, Column 19, Overlap: 10","Table table_1.csv, Column 47, Overlap: 9"
+table_11.csv,MSNG.7,"Table table_10.csv, Column 11, Overlap: 12","Table table_10.csv, Column 20, Overlap: 12","Table table_12.csv, Column 11, Overlap: 12"
+table_11.csv,2015/07/11 21:13,"Table table_10.csv, Column 21, Overlap: 10044","Table table_12.csv, Column 21, Overlap: 10009",
+table_12.csv,AVG_WND_DIR_10M_PST10MTS,"Table table_11.csv, Column 0, Overlap: 361","Table table_10.csv, Column 0, Overlap: 361","Table table_4.csv, Column 10, Overlap: 261"
+table_12.csv,MAX_AIR_TEMP_PST6HRS,"Table table_10.csv, Column 1, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1","Table table_10.csv, Column 10, Overlap: 1"
+table_12.csv,FLD_ELEV,"Table table_11.csv, Column 2, Overlap: 6","Table table_1.csv, Column 15, Overlap: 6","Table table_6.csv, Column 12, Overlap: 6"
+table_12.csv,PCPN_AMT_PST6HRS,"Table table_11.csv, Column 3, Overlap: 10","Table table_10.csv, Column 3, Overlap: 10","Table table_0.csv, Column 14, Overlap: 9"
+table_12.csv,DATA_ATTRIB_NOT,"Table table_11.csv, Column 4, Overlap: 1","Table table_10.csv, Column 4, Overlap: 1","Table table_16.csv, Column 12, Overlap: 1"
+table_12.csv,BARO_ELEV,"Table table_0.csv, Column 10, Overlap: 6","Table table_1.csv, Column 52, Overlap: 6","Table table_11.csv, Column 5, Overlap: 6"
+table_12.csv,AVG_MSLP_PST1MT,"Table table_11.csv, Column 6, Overlap: 399","Table table_10.csv, Column 6, Overlap: 399","Table table_1.csv, Column 23, Overlap: 132"
+table_12.csv,MSC_ID,"Table table_10.csv, Column 7, Overlap: 6","Table table_11.csv, Column 7, Overlap: 6",
+table_12.csv,LTNG_DIS_RMK,"Table table_11.csv, Column 8, Overlap: 32","Table table_10.csv, Column 8, Overlap: 32","Table table_13.csv, Column 19, Overlap: 3"
+table_12.csv,AVG_VIS_PST1MT,"Table table_11.csv, Column 9, Overlap: 1221","Table table_10.csv, Column 9, Overlap: 1221","Table table_7.csv, Column 32, Overlap: 1105"
+table_12.csv,DNSTY_ALTD,"Table table_11.csv, Column 10, Overlap: 30","Table table_10.csv, Column 10, Overlap: 30","Table table_6.csv, Column 12, Overlap: 7"
+table_12.csv,MX_WND_GST_SPD_10M_PST10MTS,"Table table_11.csv, Column 11, Overlap: 15","Table table_10.csv, Column 11, Overlap: 15","Table table_1.csv, Column 47, Overlap: 13"
+table_12.csv,AVG_WND_DIR_10M_PST2MTS,"Table table_11.csv, Column 0, Overlap: 37","Table table_11.csv, Column 12, Overlap: 37","Table table_10.csv, Column 0, Overlap: 37"
+table_12.csv,MAX_PK_WND_SPD_10M_PST1HR,"Table table_11.csv, Column 11, Overlap: 6","Table table_11.csv, Column 20, Overlap: 6","Table table_10.csv, Column 11, Overlap: 6"
+table_12.csv,AVG_WND_SPD_10M_PST2MTS,"Table table_11.csv, Column 14, Overlap: 22","Table table_10.csv, Column 14, Overlap: 22","Table table_1.csv, Column 47, Overlap: 18"
+table_12.csv,DATA_PAYLOAD_URI,"Table table_11.csv, Column 15, Overlap: 34165","Table table_10.csv, Column 15, Overlap: 34165","Table table_16.csv, Column 12, Overlap: 1"
+table_12.csv,AVG_REL_HUM_PST1MT,"Table table_10.csv, Column 16, Overlap: 656","Table table_11.csv, Column 16, Overlap: 656","Table table_6.csv, Column 12, Overlap: 654"
+table_12.csv,MIN_AIR_TEMP_PST24HRS,"Table table_10.csv, Column 1, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1","Table table_10.csv, Column 10, Overlap: 1"
+table_12.csv,MAX_AIR_TEMP_PST24HRS,"Table table_10.csv, Column 1, Overlap: 1","Table table_11.csv, Column 0, Overlap: 1","Table table_10.csv, Column 10, Overlap: 1"
+table_12.csv,PCPN_AMT_PST1MT,"Table table_11.csv, Column 19, Overlap: 10","Table table_10.csv, Column 19, Overlap: 10","Table table_1.csv, Column 47, Overlap: 9"
+table_12.csv,MAX_WND_SPD_10M_PST1HR,"Table table_11.csv, Column 11, Overlap: 12","Table table_11.csv, Column 20, Overlap: 12","Table table_10.csv, Column 11, Overlap: 12"
+table_12.csv,OBS_DATETIME_UTC,"Table table_11.csv, Column 21, Overlap: 10009","Table table_10.csv, Column 21, Overlap: 10009","Table table_16.csv, Column 12, Overlap: 1"
+table_13.csv,MEDIAN_WIDTH,"Table table_4.csv, Column 10, Overlap: 183","Table table_7.csv, Column 17, Overlap: 161","Table table_12.csv, Column 0, Overlap: 82"
+table_13.csv,SURV_G,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,TYPE_SIGNAL,"Table table_7.csv, Column 10, Overlap: 5","Table table_7.csv, Column 19, Overlap: 5","Table table_7.csv, Column 16, Overlap: 5"
+table_13.csv,K_FACTOR,"Table table_7.csv, Column 10, Overlap: 31","Table table_18.csv, Column 5, Overlap: 31","Table table_4.csv, Column 10, Overlap: 31"
+table_13.csv,SURV_D,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,IS_SAMPLE,"Table table_7.csv, Column 1, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1","Table table_7.csv, Column 19, Overlap: 1"
+table_13.csv,SPEED_LIMIT,"Table table_4.csv, Column 10, Overlap: 15","Table table_7.csv, Column 17, Overlap: 15","Table table_7.csv, Column 10, Overlap: 12"
+table_13.csv,SURV_E,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,HORZ_ALIGN,"Table table_7.csv, Column 10, Overlap: 5","Table table_7.csv, Column 19, Overlap: 5","Table table_7.csv, Column 16, Overlap: 5"
+table_13.csv,PEAK_CAPACITY,"Table table_7.csv, Column 4, Overlap: 4140","Table table_4.csv, Column 10, Overlap: 3398","Table table_1.csv, Column 53, Overlap: 238"
+table_13.csv,COUNTY_CODE,"Table table_4.csv, Column 10, Overlap: 272","Table table_7.csv, Column 17, Overlap: 185","Table table_7.csv, Column 4, Overlap: 142"
+table_13.csv,INTER_ROUTE_NUMBER,"Table table_4.csv, Column 10, Overlap: 177","Table table_7.csv, Column 17, Overlap: 106","Table table_7.csv, Column 4, Overlap: 93"
+table_13.csv,TRUCK_ROUTE,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,BEGIN_LRS,"Table table_7.csv, Column 32, Overlap: 8482","Table table_7.csv, Column 9, Overlap: 2550","Table table_7.csv, Column 12, Overlap: 1534"
+table_13.csv,SECTION_ID,"Table table_4.csv, Column 10, Overlap: 497","Table table_7.csv, Column 4, Overlap: 230","Table table_1.csv, Column 53, Overlap: 25"
+table_13.csv,PEAK_LANES,"Table table_7.csv, Column 0, Overlap: 11","Table table_4.csv, Column 10, Overlap: 11","Table table_7.csv, Column 17, Overlap: 11"
+table_13.csv,WIDE_FEAS,"Table table_7.csv, Column 10, Overlap: 5","Table table_7.csv, Column 19, Overlap: 5","Table table_7.csv, Column 22, Overlap: 5"
+table_13.csv,PAVEMENT_TYPE,"Table table_7.csv, Column 10, Overlap: 6","Table table_7.csv, Column 19, Overlap: 6","Table table_7.csv, Column 22, Overlap: 6"
+table_13.csv,TURN_LANES_L,"Table table_7.csv, Column 10, Overlap: 6","Table table_7.csv, Column 19, Overlap: 6","Table table_7.csv, Column 22, Overlap: 6"
+table_13.csv,ROUTE_NUMBER,"Table table_4.csv, Column 10, Overlap: 1126","Table table_7.csv, Column 4, Overlap: 874","Table table_7.csv, Column 17, Overlap: 350"
+table_13.csv,SECTION_LENGTH,"Table table_7.csv, Column 9, Overlap: 3263","Table table_7.csv, Column 32, Overlap: 2808","Table table_7.csv, Column 12, Overlap: 2140"
+table_13.csv,CURVES_C,"Table table_7.csv, Column 9, Overlap: 398","Table table_7.csv, Column 12, Overlap: 391","Table table_7.csv, Column 13, Overlap: 327"
+table_13.csv,SAMPLING_TECH,"Table table_7.csv, Column 4, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1","Table table_7.csv, Column 19, Overlap: 1"
+table_13.csv,VSF,"Table table_7.csv, Column 32, Overlap: 202","Table table_7.csv, Column 9, Overlap: 202","Table table_7.csv, Column 12, Overlap: 201"
+table_13.csv,LRS_ID,"Table table_4.csv, Column 10, Overlap: 180","Table table_7.csv, Column 4, Overlap: 126","Table table_7.csv, Column 17, Overlap: 14"
+table_13.csv,SURV_H,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,IS_GROUPED,"Table table_7.csv, Column 4, Overlap: 1","Table table_7.csv, Column 10, Overlap: 1","Table table_7.csv, Column 19, Overlap: 1"
+table_13.csv,URBAN_CODE,"Table table_4.csv, Column 10, Overlap: 430","Table table_7.csv, Column 17, Overlap: 379","Table table_12.csv, Column 0, Overlap: 237"
+table_13.csv,SURV_C,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,STANDARD_TRAFFIC_CATEGORY,"Table table_7.csv, Column 10, Overlap: 13","Table table_7.csv, Column 22, Overlap: 13","Table table_7.csv, Column 25, Overlap: 13"
+table_13.csv,AT_GRADE_OTHER,"Table table_18.csv, Column 5, Overlap: 42","Table table_4.csv, Column 10, Overlap: 42","Table table_17.csv, Column 5, Overlap: 42"
+table_13.csv,F_SYSTEM,"Table table_7.csv, Column 10, Overlap: 9","Table table_18.csv, Column 5, Overlap: 9","Table table_7.csv, Column 0, Overlap: 9"
+table_13.csv,PEAK_PARKING,"Table table_7.csv, Column 10, Overlap: 4","Table table_7.csv, Column 19, Overlap: 4","Table table_7.csv, Column 16, Overlap: 4"
+table_13.csv,AADT,"Table table_4.csv, Column 10, Overlap: 4793","Table table_7.csv, Column 4, Overlap: 3557","Table table_7.csv, Column 17, Overlap: 286"
+table_13.csv,SN_D,"Table table_1.csv, Column 47, Overlap: 105","Table table_0.csv, Column 14, Overlap: 105","Table table_1.csv, Column 56, Overlap: 105"
+table_13.csv,TOLL,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,SURV_I,"Table table_7.csv, Column 10, Overlap: 2","Table table_7.csv, Column 19, Overlap: 2","Table table_7.csv, Column 16, Overlap: 2"
+table_13.csv,PSR,"Table table_1.csv, Column 47, Overlap: 50","Table table_0.csv, Column 14, Overlap: 50","Table table_1.csv, Column 56, Overlap: 50"
+table_13.csv,ACCESS_CONTROL,"Table table_7.csv, Column 1, Overlap: 3","Table table_7.csv, Column 10, Overlap: 3","Table table_7.csv, Column 19, Overlap: 3"
+table_13.csv,YEAR_RECORD,"Table table_4.csv, Column 10, Overlap: 1","Table table_6.csv, Column 0, Overlap: 1","Table table_7.csv, Column 4, Overlap: 1"
+table_13.csv,TYPE_FACILITY,"Table table_7.csv, Column 1, Overlap: 3","Table table_7.csv, Column 10, Overlap: 3","Table table_7.csv, Column 19, Overlap: 3"
+table_15.csv,qd13_9,"Table table_16.csv, Column 20, Overlap: 37","Table table_16.csv, Column 25, Overlap: 36","Table table_16.csv, Column 21, Overlap: 34"
+table_15.csv,qc1_5_2,"Table table_16.csv, Column 25, Overlap: 33","Table table_16.csv, Column 20, Overlap: 31","Table table_16.csv, Column 29, Overlap: 30"
+table_15.csv,qc1_3_7,"Table table_16.csv, Column 25, Overlap: 36","Table table_16.csv, Column 21, Overlap: 35","Table table_16.csv, Column 29, Overlap: 33"
+table_15.csv,qd13_4,"Table table_16.csv, Column 29, Overlap: 31","Table table_16.csv, Column 6, Overlap: 28","Table table_16.csv, Column 20, Overlap: 27"
+table_15.csv,qe10_1,"Table table_16.csv, Column 20, Overlap: 39","Table table_16.csv, Column 29, Overlap: 36","Table table_16.csv, Column 25, Overlap: 35"
+table_15.csv,qc1_3_5,"Table table_16.csv, Column 25, Overlap: 37","Table table_16.csv, Column 21, Overlap: 32","Table table_16.csv, Column 29, Overlap: 30"
+table_15.csv,qi1_6,"Table table_16.csv, Column 6, Overlap: 43","Table table_16.csv, Column 29, Overlap: 42","Table table_16.csv, Column 8, Overlap: 34"
+table_15.csv,qj1,"Table table_16.csv, Column 7, Overlap: 29","Table table_16.csv, Column 31, Overlap: 2","Table table_16.csv, Column 20, Overlap: 2"
+table_15.csv,qe10a,"Table table_16.csv, Column 29, Overlap: 40","Table table_16.csv, Column 6, Overlap: 39","Table table_16.csv, Column 20, Overlap: 36"
+table_15.csv,Region,"Table table_16.csv, Column 9, Overlap: 29","Table table_16.csv, Column 12, Overlap: 21","Table table_12.csv, Column 0, Overlap: 1"
+table_15.csv,qd12_8_other,"Table table_16.csv, Column 10, Overlap: 184","Table table_13.csv, Column 19, Overlap: 10","Table table_7.csv, Column 10, Overlap: 6"
+table_15.csv,qj3_1,"Table table_7.csv, Column 10, Overlap: 16","Table table_18.csv, Column 5, Overlap: 16","Table table_7.csv, Column 0, Overlap: 16"
+table_15.csv,qb6,"Table table_16.csv, Column 12, Overlap: 28","Table table_16.csv, Column 9, Overlap: 25","Table table_12.csv, Column 0, Overlap: 1"
+table_15.csv,SEG,"Table table_16.csv, Column 13, Overlap: 29","Table table_16.csv, Column 12, Overlap: 1","Table table_12.csv, Column 0, Overlap: 1"
+table_15.csv,qc4_5,"Table table_16.csv, Column 14, Overlap: 26","Table table_16.csv, Column 12, Overlap: 1","Table table_12.csv, Column 0, Overlap: 1"
+table_15.csv,qe5_5,"Table table_16.csv, Column 25, Overlap: 32","Table table_16.csv, Column 29, Overlap: 31","Table table_16.csv, Column 20, Overlap: 30"
+table_15.csv,qc1_1_2,"Table table_16.csv, Column 29, Overlap: 35","Table table_16.csv, Column 20, Overlap: 35","Table table_16.csv, Column 21, Overlap: 34"
+table_15.csv,qe5_4,"Table table_16.csv, Column 21, Overlap: 33","Table table_16.csv, Column 25, Overlap: 29","Table table_16.csv, Column 20, Overlap: 29"
+table_15.csv,QD1_2,"Table table_2.csv, Column 43, Overlap: 35","Table table_7.csv, Column 32, Overlap: 35","Table table_1.csv, Column 43, Overlap: 35"
+table_15.csv,qc1_1_1,"Table table_16.csv, Column 6, Overlap: 35","Table table_16.csv, Column 29, Overlap: 33","Table table_16.csv, Column 8, Overlap: 31"
+table_15.csv,qh1_2,"Table table_16.csv, Column 29, Overlap: 42","Table table_16.csv, Column 20, Overlap: 41","Table table_16.csv, Column 25, Overlap: 40"
+table_15.csv,qj4_4,"Table table_16.csv, Column 21, Overlap: 45","Table table_16.csv, Column 25, Overlap: 43","Table table_16.csv, Column 20, Overlap: 41"
+table_15.csv,qe11_10,"Table table_16.csv, Column 28, Overlap: 23","Table table_16.csv, Column 22, Overlap: 19","Table table_16.csv, Column 26, Overlap: 19"
+table_15.csv,qg5,"Table table_16.csv, Column 23, Overlap: 32","Table table_16.csv, Column 31, Overlap: 32","Table table_16.csv, Column 20, Overlap: 2"
+table_15.csv,qi2a_8,"Table table_16.csv, Column 20, Overlap: 41","Table table_16.csv, Column 21, Overlap: 38","Table table_16.csv, Column 25, Overlap: 37"
+table_15.csv,qe10_10,"Table table_16.csv, Column 21, Overlap: 42","Table table_16.csv, Column 25, Overlap: 39","Table table_16.csv, Column 20, Overlap: 39"
+table_15.csv,qd12_8,"Table table_16.csv, Column 26, Overlap: 19","Table table_16.csv, Column 28, Overlap: 17","Table table_16.csv, Column 22, Overlap: 15"
+table_15.csv,qc1_3_1,"Table table_16.csv, Column 6, Overlap: 29","Table table_16.csv, Column 27, Overlap: 28","Table table_16.csv, Column 29, Overlap: 26"
+table_15.csv,qd12_7,"Table table_16.csv, Column 28, Overlap: 30","Table table_16.csv, Column 26, Overlap: 22","Table table_16.csv, Column 22, Overlap: 21"
+table_15.csv,qi1_3,"Table table_16.csv, Column 29, Overlap: 41","Table table_16.csv, Column 6, Overlap: 38","Table table_16.csv, Column 20, Overlap: 38"
+table_15.csv,qe5_10,"Table table_16.csv, Column 25, Overlap: 36","Table table_16.csv, Column 20, Overlap: 35","Table table_16.csv, Column 21, Overlap: 33"
+table_15.csv,qg6,"Table table_16.csv, Column 31, Overlap: 41","Table table_16.csv, Column 23, Overlap: 37","Table table_16.csv, Column 20, Overlap: 2"
+table_16.csv,qd13_9,"Table table_15.csv, Column 20, Overlap: 30","Table table_15.csv, Column 29, Overlap: 30","Table table_15.csv, Column 21, Overlap: 29"
+table_16.csv,qc1_5_2,"Table table_15.csv, Column 21, Overlap: 33","Table table_15.csv, Column 29, Overlap: 28","Table table_15.csv, Column 20, Overlap: 27"
+table_16.csv,qc1_3_7,"Table table_15.csv, Column 29, Overlap: 29","Table table_15.csv, Column 21, Overlap: 27","Table table_15.csv, Column 24, Overlap: 26"
+table_16.csv,qd13_4,"Table table_15.csv, Column 6, Overlap: 29","Table table_15.csv, Column 29, Overlap: 28","Table table_15.csv, Column 4, Overlap: 27"
+table_16.csv,qe10_1,"Table table_15.csv, Column 20, Overlap: 35","Table table_15.csv, Column 29, Overlap: 35","Table table_15.csv, Column 4, Overlap: 34"
+table_16.csv,qc1_3_5,"Table table_15.csv, Column 21, Overlap: 33","Table table_15.csv, Column 24, Overlap: 31","Table table_15.csv, Column 20, Overlap: 29"
+table_16.csv,qi1_6,"Table table_15.csv, Column 6, Overlap: 43","Table table_15.csv, Column 8, Overlap: 39","Table table_15.csv, Column 29, Overlap: 38"
+table_16.csv,qj1,"Table table_15.csv, Column 7, Overlap: 29","Table table_15.csv, Column 23, Overlap: 2","Table table_15.csv, Column 20, Overlap: 2"
+table_16.csv,qe10a,"Table table_15.csv, Column 20, Overlap: 36","Table table_15.csv, Column 6, Overlap: 34","Table table_15.csv, Column 8, Overlap: 33"
+table_16.csv,Region,"Table table_15.csv, Column 9, Overlap: 29","Table table_15.csv, Column 12, Overlap: 25","Table table_12.csv, Column 0, Overlap: 1"
+table_16.csv,qd12_8_other,"Table table_15.csv, Column 10, Overlap: 184","Table table_13.csv, Column 19, Overlap: 8","Table table_7.csv, Column 10, Overlap: 5"
+table_16.csv,qj3_1,"Table table_7.csv, Column 10, Overlap: 14","Table table_18.csv, Column 5, Overlap: 14","Table table_7.csv, Column 0, Overlap: 14"
+table_16.csv,qb6,"Table table_15.csv, Column 12, Overlap: 28","Table table_15.csv, Column 9, Overlap: 21","Table table_12.csv, Column 0, Overlap: 1"
+table_16.csv,SEG,"Table table_15.csv, Column 13, Overlap: 29","Table table_12.csv, Column 0, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1"
+table_16.csv,qc4_5,"Table table_15.csv, Column 14, Overlap: 26","Table table_12.csv, Column 0, Overlap: 1","Table table_12.csv, Column 3, Overlap: 1"
+table_16.csv,qe5_5,"Table table_15.csv, Column 21, Overlap: 30","Table table_15.csv, Column 5, Overlap: 29","Table table_15.csv, Column 29, Overlap: 29"
+table_16.csv,qc1_1_2,"Table table_15.csv, Column 24, Overlap: 34","Table table_15.csv, Column 8, Overlap: 34","Table table_15.csv, Column 21, Overlap: 32"
+table_16.csv,qe5_4,"Table table_15.csv, Column 0, Overlap: 30","Table table_15.csv, Column 24, Overlap: 30","Table table_15.csv, Column 29, Overlap: 30"
+table_16.csv,QD1_2,"Table table_0.csv, Column 14, Overlap: 30","Table table_1.csv, Column 56, Overlap: 30","Table table_2.csv, Column 8, Overlap: 30"
+table_16.csv,qc1_1_1,"Table table_15.csv, Column 6, Overlap: 34","Table table_15.csv, Column 8, Overlap: 31","Table table_15.csv, Column 20, Overlap: 27"
+table_16.csv,qh1_2,"Table table_15.csv, Column 20, Overlap: 41","Table table_15.csv, Column 21, Overlap: 41","Table table_15.csv, Column 24, Overlap: 41"
+table_16.csv,qj4_4,"Table table_15.csv, Column 21, Overlap: 45","Table table_15.csv, Column 25, Overlap: 42","Table table_15.csv, Column 24, Overlap: 38"
+table_16.csv,qe11_10,"Table table_15.csv, Column 28, Overlap: 21","Table table_15.csv, Column 22, Overlap: 19","Table table_15.csv, Column 26, Overlap: 15"
+table_16.csv,qg5,"Table table_15.csv, Column 31, Overlap: 37","Table table_15.csv, Column 23, Overlap: 32","Table table_15.csv, Column 7, Overlap: 2"
+table_16.csv,qi2a_8,"Table table_15.csv, Column 20, Overlap: 32","Table table_15.csv, Column 21, Overlap: 30","Table table_15.csv, Column 8, Overlap: 28"
+table_16.csv,qe10_10,"Table table_15.csv, Column 21, Overlap: 43","Table table_15.csv, Column 20, Overlap: 40","Table table_15.csv, Column 25, Overlap: 39"
+table_16.csv,qd12_8,"Table table_15.csv, Column 28, Overlap: 22","Table table_15.csv, Column 26, Overlap: 19","Table table_15.csv, Column 22, Overlap: 19"
+table_16.csv,qc1_3_1,"Table table_15.csv, Column 6, Overlap: 33","Table table_15.csv, Column 8, Overlap: 32","Table table_15.csv, Column 19, Overlap: 31"
+table_16.csv,qd12_7,"Table table_15.csv, Column 28, Overlap: 30","Table table_15.csv, Column 22, Overlap: 23","Table table_15.csv, Column 26, Overlap: 17"
+table_16.csv,qi1_3,"Table table_15.csv, Column 20, Overlap: 42","Table table_15.csv, Column 6, Overlap: 42","Table table_15.csv, Column 29, Overlap: 41"
+table_16.csv,qe5_10,"Table table_15.csv, Column 24, Overlap: 32","Table table_15.csv, Column 21, Overlap: 31","Table table_15.csv, Column 25, Overlap: 28"
+table_16.csv,qg6,"Table table_15.csv, Column 31, Overlap: 41","Table table_15.csv, Column 23, Overlap: 32","Table table_15.csv, Column 7, Overlap: 2"
+table_17.csv,['received_date✔️' 'received_date😎'],"Table table_18.csv, Column 0, Overlap: 3489",,
+table_17.csv,['Auth_Description👉' 'Auth_Description😜'],"Table table_18.csv, Column 1, Overlap: 35",,
+table_17.csv,['Op_Name🥰' 'Op_Name😜'],"Table table_18.csv, Column 2, Overlap: 197",,
+table_17.csv,['Short Notice😭' 'Short Notice🫂'],"Table table_16.csv, Column 15, Overlap: 2","Table table_16.csv, Column 21, Overlap: 2","Table table_16.csv, Column 24, Overlap: 2"
+table_17.csv,['Description😩' 'Description✨'],"Table table_18.csv, Column 4, Overlap: 3",,
+table_17.csv,['Variation Number😊' 'Variation Number🤔'],"Table table_13.csv, Column 19, Overlap: 62","Table table_4.csv, Column 10, Overlap: 62","Table table_13.csv, Column 0, Overlap: 62"
+table_17.csv,['Service_Type_Other_Details❤️' 'Service_Type_Other_Details🤯'],"Table table_18.csv, Column 6, Overlap: 4995",,
+table_18.csv,rctevee_didae,"Table table_17.csv, Column 0, Overlap: 3489",,
+table_18.csv,Acspi_htorDteuin,"Table table_17.csv, Column 1, Overlap: 35",,
+table_18.csv,OapN_me,"Table table_17.csv, Column 2, Overlap: 197",,
+table_18.csv,SitrtNo choe,"Table table_16.csv, Column 15, Overlap: 2","Table table_16.csv, Column 21, Overlap: 2","Table table_16.csv, Column 24, Overlap: 2"
+table_18.csv,Synset('description.n.01'),"Table table_17.csv, Column 4, Overlap: 3",,
+table_18.csv,V triamibauNnoer,"Table table_13.csv, Column 19, Overlap: 61","Table table_4.csv, Column 10, Overlap: 61","Table table_13.csv, Column 0, Overlap: 61"
+table_18.csv,SitTev_rheaciD__prletOeeys,"Table table_17.csv, Column 6, Overlap: 4995",,
