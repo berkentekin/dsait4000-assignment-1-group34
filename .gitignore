@@ -10,4 +10,5 @@ out/data_only8.txt
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+.idea/
 *.pkl
