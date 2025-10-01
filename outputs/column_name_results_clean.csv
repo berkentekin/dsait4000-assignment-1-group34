@@ -1,0 +1,768 @@
+Dataset 1,Dataset 2,Relation,Column 1,Column 2,Levenshtein Ratio,Jaccard (k=2),Jaccard (k=3),Jaccard (k=4),Jaccard (k=5)
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Professional and business fees,Bottom Quartile Professional and business fees,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.1,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.2,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.3,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.4,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.5,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.6,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.7,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.8,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator,Quality Indicator.9,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.1,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.2,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.3,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.4,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.5,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.6,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.7,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.8,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Total expenses,Lower Middle Total expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Net Profit/Loss,Upper Middle Net Profit/Loss,0.8928571428571429,0.8275862068965517,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Net Profit/Loss,Lower Middle Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Operating Expenses (indirect),Bottom Quartile Operating Expenses (indirect),0.9111111111111111,0.8571428571428571,0.8043478260869565,0.8,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Operating Expenses (indirect),Top Quartile Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle Operating Expenses (indirect),Lower Middle Operating Expenses (indirect),0.9285714285714286,0.875,0.8809523809523809,0.8571428571428571,0.8536585365853658
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Closing Inventory,Top Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Closing Inventory,Bottom Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,"Top Quartile Purchases, materials and sub-contracts","Top Quartile Purchases, materials and sub-contracts",1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Amortization and depletion,Lower Middle Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Amortization and depletion,Upper Middle Amortization and depletion,0.9230769230769231,0.8285714285714286,0.8421052631578947,0.8421052631578947,0.8421052631578947
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.1,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,0.8070175438596492,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Other expenses,Top Quartile Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Operating Expenses (indirect),Lower Middle Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Other expenses,Lower Middle Total expenses,0.8518518518518519,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Repairs and maintenance,Bottom Quartile Repairs and maintenance,0.8974358974358975,0.8157894736842105,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.2,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle Rent,Lower Middle Rent,0.8235294117647058,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle Rent,Upper Middle Rent,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Advertising and promotion,Bottom Quartile Advertising and promotion,0.9024390243902439,0.8611111111111112,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Other expenses,Top Quartile Other expenses,0.8666666666666667,0.8,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Wages and Benefits,Top Quartile Wages and Benefits,0.8823529411764706,0.8,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Bottom Quartile Wages and Benefits,Bottom Quartile Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Closing Inventory,Top Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Closing Inventory,Bottom Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Wages and Benefits,Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Quality Indicator.3,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Labour and Commissions,Lower Middle Labour and Commissions,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Amortization and depletion,Top Quartile Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Cost of Sales,Lower Middle Cost of Sales,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Other expenses,Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Lower Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Top Quartile Delivery, shipping and warehouse expense",1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Upper Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,0.9444444444444444,0.8775510204081632,0.8867924528301887,0.8867924528301887,0.8867924528301887
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Upper Middle Utilities and telephone/telecommunication,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Upper Middle cost of Sales,Lower Middle Cost of Sales,0.8846153846153846,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Insurance,Bottom Quartile Insurance,0.84,,,,
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Top Quartile Insurance,Top Quartile Insurance,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Wages and Benefits,Upper Middle Wages and Benefits,0.9032258064516129,0.8181818181818182,0.8125,0.8064516129032258,0.8
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Lower Middle Wages and Benefits,Lower Middle Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_1.csv,UNION,Rent,Rent,1.0,1.0,1.0,1.0,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Professional and business fees,Bottom Quartile Professional and business fees,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.1,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.2,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.3,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.4,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.5,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.6,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.7,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.8,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.9,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.1,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.2,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.3,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.4,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.5,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.6,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.7,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.8,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Total expenses,Lower Middle Total expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Net Profit/Loss,Upper Middle Net Profit/Loss,0.8928571428571429,0.8275862068965517,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Net Profit/Loss,Lower Middle Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Operating Expenses (indirect),Bottom Quartile Operating Expenses (indirect),0.9111111111111111,0.8571428571428571,0.8043478260869565,0.8,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Operating Expenses (indirect),Top Quartile Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle Operating Expenses (indirect),Lower Middle Operating Expenses (indirect),0.9285714285714286,0.875,0.8809523809523809,0.8571428571428571,0.8536585365853658
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Closing Inventory,Top Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Closing Inventory,Bottom Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,"Top Quartile Purchases, materials and sub-contracts","Top Quartile Purchases, materials and sub-contracts",1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Amortization and depletion,Lower Middle Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Amortization and depletion,Upper Middle Amortization and depletion,0.9230769230769231,0.8285714285714286,0.8421052631578947,0.8421052631578947,0.8421052631578947
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,0.8070175438596492,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Other expenses,Top Quartile Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Operating Expenses (indirect),Lower Middle Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Other expenses,Lower Middle Total expenses,0.8518518518518519,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Repairs and maintenance,Bottom Quartile Repairs and maintenance,0.8974358974358975,0.8157894736842105,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle Rent,Lower Middle Rent,0.8235294117647058,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle Rent,Upper Middle Rent,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Advertising and promotion,Bottom Quartile Advertising and promotion,0.9024390243902439,0.8611111111111112,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Other expenses,Top Quartile Other expenses,0.8666666666666667,0.8,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Wages and Benefits,Top Quartile Wages and Benefits,0.8823529411764706,0.8,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Bottom Quartile Wages and Benefits,Bottom Quartile Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Closing Inventory,Top Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Closing Inventory,Bottom Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Wages and Benefits,Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Labour and Commissions,Lower Middle Labour and Commissions,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Amortization and depletion,Top Quartile Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Cost of Sales,Lower Middle Cost of Sales,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Other expenses,Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Lower Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Top Quartile Delivery, shipping and warehouse expense",1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Upper Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,0.9444444444444444,0.8775510204081632,0.8867924528301887,0.8867924528301887,0.8867924528301887
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Upper Middle Utilities and telephone/telecommunication,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Upper Middle cost of Sales,Lower Middle Cost of Sales,0.8846153846153846,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Insurance,Bottom Quartile Insurance,0.84,,,,
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Top Quartile Insurance,Top Quartile Insurance,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Wages and Benefits,Upper Middle Wages and Benefits,0.9032258064516129,0.8181818181818182,0.8125,0.8064516129032258,0.8
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Lower Middle Wages and Benefits,Lower Middle Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_0.csv,cleaned_table_2.csv,UNION,Rent,Rent,1.0,1.0,1.0,1.0,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Advertising and promotion,Bottom Quartile Advertising and promotion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.1,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.2,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.3,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.4,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.5,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.6,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.7,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.8,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator,Quality Indicator.9,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Amortization and depletion,Lower Middle Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Amortization and depletion,Upper Middle Amortization and depletion,0.9230769230769231,0.8285714285714286,0.8421052631578947,0.8421052631578947,0.8421052631578947
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Operating Expenses (indirect),Bottom Quartile Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Operating Expenses (indirect),Top Quartile Operating Expenses (indirect),0.9111111111111111,0.8571428571428571,0.8043478260869565,0.8,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Top Quartile Purchases, materials and sub-contracts","Top Quartile Purchases, materials and sub-contracts",1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.1,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Utilities and telephone/telecommunication,Upper Middle Utilities and telephone/telecommunication,0.9444444444444444,0.8775510204081632,0.8867924528301887,0.8867924528301887,0.8867924528301887
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Amortization and depletion,Lower Middle Amortization and depletion,0.9230769230769231,0.8285714285714286,0.8421052631578947,0.8421052631578947,0.8421052631578947
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Amortization and depletion,Upper Middle Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.1,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.2,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.3,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.4,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.5,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.6,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.7,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting,% of Businesses Reporting.8,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Total expenses,Lower Middle Total expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Net Profit/Loss,Upper Middle Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Net Profit/Loss,Lower Middle Net Profit/Loss,0.8928571428571429,0.8275862068965517,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Advertising and promotion,Advertising and promotion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.2,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Wages and Benefits,Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Operating expenses (indirect),Operating expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Opening Inventory,Upper Middle Opening Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Opening Inventory,Lower Middle Opening Inventory,0.9,0.8275862068965517,0.8064516129032258,0.8,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Opening Inventory,Opening Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Incorporation Status,Incorporation Status,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Cost of Sales,Top Quartile Cost of Sales,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Rent,Rent,1.0,1.0,1.0,1.0,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Wages and Benefits,Upper Middle Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Wages and Benefits,Lower Middle Wages and Benefits,0.9032258064516129,0.8181818181818182,0.8125,0.8064516129032258,0.8
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Other expenses,Top Quartile Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Operating Expenses (indirect),Bottom Quartile Operating Expenses (indirect),0.9111111111111111,0.8571428571428571,0.8043478260869565,0.8,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Operating Expenses (indirect),Top Quartile Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.1,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Net Profit/Loss,Top Quartile Net Profit/Loss,0.8709677419354839,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Net Profit/Loss,Bottom Quartile Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Opening Inventory,Upper Middle Opening Inventory,0.9,0.8275862068965517,0.8064516129032258,0.8,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Opening Inventory,Lower Middle Opening Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Net Profit/Loss,Upper Middle Net Profit/Loss,0.8928571428571429,0.8275862068965517,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Net Profit/Loss,Lower Middle Net Profit/Loss,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Rent,Lower Middle Rent,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Rent,Upper Middle Rent,0.8235294117647058,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.2,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.3,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Wages and Benefits,Top Quartile Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Wages and Benefits,Bottom Quartile Wages and Benefits,0.8823529411764706,0.8,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.3,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Cost of Sales,Lower Middle Cost of Sales,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.4,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Amortization and depletion,Top Quartile Amortization and depletion,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.5,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Wages and Benefits,Top Quartile Wages and Benefits,0.8823529411764706,0.8,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Wages and Benefits,Bottom Quartile Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.4,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Lower Middle Delivery, shipping and warehouse expense","Lower Middle Delivery, shipping and warehouse expense",1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Lower Middle Delivery, shipping and warehouse expense","Top Quartile Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Lower Middle Delivery, shipping and warehouse expense","Upper Middle Delivery, shipping and warehouse expense",0.9433962264150944,0.92,0.8888888888888888,0.8867924528301887,0.8846153846153846
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Province/Canada,Province/Canada,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.5,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Insurance,Bottom Quartile Insurance,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Insurance,Top Quartile Insurance,0.84,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Closing Inventory,Top Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Closing Inventory,Bottom Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Lower Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Top Quartile Delivery, shipping and warehouse expense",1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense","Upper Middle Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.6,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.6,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Repairs and maintenance,Bottom Quartile Repairs and maintenance,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Rent,Lower Middle Rent,0.8235294117647058,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Rent,Upper Middle Rent,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Closing Inventory,Top Quartile Closing Inventory,0.8787878787878788,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Closing Inventory,Bottom Quartile Closing Inventory,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Wages and Benefits,Upper Middle Wages and Benefits,0.9032258064516129,0.8181818181818182,0.8125,0.8064516129032258,0.8
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Wages and Benefits,Lower Middle Wages and Benefits,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.7,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.7,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Other expenses,Other expenses,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Operating Expenses (indirect),Lower Middle Operating Expenses (indirect),1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Naics code,Naics code,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.8,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.8,Quality Indicator.9,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.6,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.6,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.7,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.7,% of Businesses Reporting.8,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting,0.9259259259259259,0.9166666666666666,0.92,0.9166666666666666,0.9130434782608695
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.1,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.2,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.3,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.4,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.5,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.6,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.7,0.962962962962963,0.92,0.9230769230769231,0.92,0.9166666666666666
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,% of Businesses Reporting.8,% of Businesses Reporting.8,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Bottom Quartile Professional and business fees,Bottom Quartile Professional and business fees,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Upper Middle Delivery, shipping and warehouse expense","Lower Middle Delivery, shipping and warehouse expense",0.9433962264150944,0.92,0.8888888888888888,0.8867924528301887,0.8846153846153846
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Upper Middle Delivery, shipping and warehouse expense","Top Quartile Delivery, shipping and warehouse expense",0.8301886792452831,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,"Upper Middle Delivery, shipping and warehouse expense","Upper Middle Delivery, shipping and warehouse expense",1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Lower Middle Labour and Commissions,Lower Middle Labour and Commissions,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Lower Middle Utilities and telephone/telecommunication,0.9444444444444444,0.8775510204081632,0.8867924528301887,0.8867924528301887,0.8867924528301887
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Upper Middle Utilities and telephone/telecommunication,Upper Middle Utilities and telephone/telecommunication,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875,0.8666666666666667
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.1,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.2,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.3,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.4,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.5,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.6,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.7,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.8,0.9473684210526316,0.8947368421052632,0.8888888888888888,0.8823529411764706,0.875
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Quality Indicator.9,Quality Indicator.9,1.0,1.0,1.0,1.0,1.0
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Insurance,Bottom Quartile Insurance,0.84,,,,
+cleaned_table_1.csv,cleaned_table_2.csv,UNION,Top Quartile Insurance,Top Quartile Insurance,1.0,1.0,1.0,1.0,1.0
+cleaned_table_3.csv,cleaned_table_4.csv,UNION,SCALAR_FACTOR,SCALAR_FACTOR SCALAR_FACTOR,,0.8571428571428571,,,
+cleaned_table_3.csv,cleaned_table_4.csv,UNION,SCALAR_ID,SCALAR_ID SCALAR_ID,,0.8,,,
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,REF_DATE,REF_DATE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,GEO,GEO,1.0,1.0,1.0,,
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,UOM_ID,UOM_ID,1.0,1.0,1.0,1.0,1.0
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,SCALAR_FACTOR,SCALAR_FACTOR,1.0,1.0,1.0,1.0,1.0
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,SCALAR_ID,SCALAR_ID,1.0,1.0,1.0,1.0,1.0
+cleaned_table_3.csv,cleaned_table_5.csv,UNION,VECTOR,VECTOR,1.0,1.0,1.0,1.0,1.0
+cleaned_table_4.csv,cleaned_table_5.csv,UNION,SCALAR_FACTOR SCALAR_FACTOR,SCALAR_FACTOR,,0.8571428571428571,,,
+cleaned_table_4.csv,cleaned_table_5.csv,UNION,SCALAR_ID SCALAR_ID,SCALAR_ID,,0.8,,,
+cleaned_table_4.csv,cleaned_table_5.csv,UNION,COORDINATE COORDINATE,COORDINATE,,0.8181818181818182,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,ROUTE_NUMBER,ROUTE_NUMBER,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,IS_GROUPED,IS_GROUPED,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,F_SYSTEM,F_SYSTEM,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,AADT,AADT,1.0,1.0,1.0,1.0,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,PEAK_LANES,PEAK_LANES,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_E,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_C,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_C,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_E,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_C,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_B,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_E,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_C,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_A,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SN_D,SN_D,1.0,1.0,1.0,1.0,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,URBAN_CODE,URBAN_CODE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,CURVES_A,CURVES_C,0.875,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,COUNTY_CODE,COUNTY_CODE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,ACCESS_CONTROL,ACCESS_CONTROL,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,TRUCK_ROUTE,TRUCK_ROUTE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,CURVES_F,CURVES_C,0.875,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,TYPE_SIGNAL,TYPE_SIGNAL,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,BEGIN_LRS,BEGIN_LRS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_G,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_E,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_C,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SURV_G,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,TURN_LANES_R,TURN_LANES_L,0.9166666666666666,0.9090909090909091,0.8181818181818182,0.8,
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,IS_SAMPLE,IS_SAMPLE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,SECTION_ID,SECTION_ID,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,TURN_LANES_L,TURN_LANES_L,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_13.csv,UNION,K_FACTOR,K_FACTOR,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,DONUT_VOLUME_GROUP,DONUT_VOLUME_GROUP,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,IS_GROUPED,IS_GROUPED,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,F_SYSTEM,GF_SYSTEM,0.8888888888888888,0.875,0.8571428571428571,0.8333333333333334,0.8
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,F_SYSTEM,F_SYSTEM,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,MEDIAN_TYPE,MEDIAN_TYPE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_B,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_B,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_B,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_B,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_A,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_A,SURV_G,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_A,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_A,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,URBAN_CODE,URBAN_CODE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,AT_GRADE_SIGNS,AT_GRADE_SIGNS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,AT_GRADE_SIGNS,AT_GRADE_SIGNAL,0.8666666666666667,0.8,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,CURVES_A,CURVES_A,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,CURVES_A,CURVES_B,0.875,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,YEAR_SURF_IMPROV,YEAR_SURF_IMPROV,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,GRADES_D,GRADES_E,0.875,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,GRADES_D,GRADES_A,0.875,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,ACCESS_CONTROL,ACCESS_CONTROL,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SHOULDER_WIDTH_L,SHOULDER_WIDTH_L,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,CURVES_F,CURVES_A,0.875,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,CURVES_F,CURVES_B,0.875,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,IRI,IRI,1.0,1.0,1.0,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_H,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_G,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_D,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_I,0.8333333333333334,,,,
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,IS_SAMPLE,IS_SAMPLE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,VERT_ALIGN,VERT_ALIGN,1.0,1.0,1.0,1.0,1.0
+cleaned_table_8.csv,cleaned_table_14.csv,UNION,ROUTE_QUALIFIER,ROUTE_QUALIFIER,1.0,1.0,1.0,1.0,1.0
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,PCPN_AMT_PST6HRS,PCPN AMT PST6HRS,0.875,,,,
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,MSC_ID,MSC ID,0.8333333333333334,,,,
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,MAX_AIR_TEMP_PST6HRS,MAX AIR TEMP PST6HRS,0.85,,,,
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,DNSTY_ALTD,DNSTY ALTD,0.9,,,,
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,AVG_WND_SPD_10M_PST2MTS,AVG WND SPD 10M PST2MTS,0.8260869565217391,,,,
+cleaned_table_9.csv,cleaned_table_11.csv,UNION,DATA_PAYLOAD_URI,DATA PAYLOAD URI,0.875,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,PCPN_AMT_PST6HRS,PCPN AMT PST6HRS,0.875,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,MSC_ID,MSC ID,0.8333333333333334,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,MAX_AIR_TEMP_PST6HRS,MAX AIR TEMP PST6HRS,0.85,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,DNSTY_ALTD,DNSTY ALTD,0.9,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,AVG_WND_SPD_10M_PST2MTS,AVG WND SPD 10M PST2MTS,0.8260869565217391,,,,
+cleaned_table_9.csv,cleaned_table_12.csv,UNION,DATA_PAYLOAD_URI,DATA PAYLOAD URI,0.875,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND DIR 10M PST10MTS,AVG WND DIR 10M PST10MTS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND DIR 10M PST10MTS,AVG WND DIR 10M PST2MTS,0.9166666666666666,0.8695652173913043,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST6HRS,MAX AIR TEMP PST6HRS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST6HRS,MIN AIR TEMP PST24HRS,0.8095238095238095,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST6HRS,MAX AIR TEMP PST24HRS,0.9047619047619048,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,FLD ELEV,FLD ELEV,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,PCPN AMT PST6HRS,PCPN AMT PST6HRS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,DATA ATTRIB NOT,DATA ATTRIB NOT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,BARO ELEV,BARO ELEV,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG MSLP PST1MT,AVG MSLP PST1MT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MSC ID,MSC ID,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,LTNG DIS RMK,LTNG DIS RMK,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG VIS PST1MT,AVG VIS PST1MT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,DNSTY ALTD,DNSTY ALTD,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MX WND GST SPD 10M PST10MTS,MX WND GST SPD 10M PST10MTS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND DIR 10M PST2MTS,AVG WND DIR 10M PST10MTS,0.9166666666666666,0.8695652173913043,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND DIR 10M PST2MTS,AVG WND DIR 10M PST2MTS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND DIR 10M PST2MTS,AVG WND SPD 10M PST2MTS,0.8695652173913043,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX PK WND SPD 10M PST1HR,MAX PK WND SPD 10M PST1HR,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX PK WND SPD 10M PST1HR,MAX WND SPD 10M PST1HR,0.88,0.9090909090909091,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND SPD 10M PST2MTS,AVG WND DIR 10M PST2MTS,0.8695652173913043,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG WND SPD 10M PST2MTS,AVG WND SPD 10M PST2MTS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,DATA PAYLOAD URI,DATA PAYLOAD URI,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,AVG REL HUM PST1MT,AVG REL HUM PST1MT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MIN AIR TEMP PST24HRS,MAX AIR TEMP PST6HRS,0.8095238095238095,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MIN AIR TEMP PST24HRS,MIN AIR TEMP PST24HRS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MIN AIR TEMP PST24HRS,MAX AIR TEMP PST24HRS,0.9047619047619048,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST24HRS,MAX AIR TEMP PST6HRS,0.9047619047619048,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST24HRS,MIN AIR TEMP PST24HRS,0.9047619047619048,,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX AIR TEMP PST24HRS,MAX AIR TEMP PST24HRS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,PCPN AMT PST1MT,PCPN AMT PST1MT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX WND SPD 10M PST1HR,MAX PK WND SPD 10M PST1HR,0.88,0.9090909090909091,,,
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,MAX WND SPD 10M PST1HR,MAX WND SPD 10M PST1HR,1.0,1.0,1.0,1.0,1.0
+cleaned_table_11.csv,cleaned_table_12.csv,UNION,OBS DATETIME UTC,OBS DATETIME UTC,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_H,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_G,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_D,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_G,SURV_I,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_D,SURV_H,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_D,SURV_G,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_D,SURV_D,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_D,SURV_I,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,IS_SAMPLE,IS_SAMPLE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SPEED_LIMIT,SPEED_LIMIT,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_E,SURV_H,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_E,SURV_G,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_E,SURV_D,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_E,SURV_I,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,HORZ_ALIGN,HORZ_ALIGN,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,WIDE_FEAS,WIDE_FEAS,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,CURVES_C,CURVES_A,0.875,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,CURVES_C,CURVES_B,0.875,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_H,SURV_H,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_H,SURV_G,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_H,SURV_D,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_H,SURV_I,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,IS_GROUPED,IS_GROUPED,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,URBAN_CODE,URBAN_CODE,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_H,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_G,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_D,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_C,SURV_I,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,AT_GRADE_OTHER,AT_GRADE_OTHER,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,F_SYSTEM,GF_SYSTEM,0.8888888888888888,0.875,0.8571428571428571,0.8333333333333334,0.8
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,F_SYSTEM,F_SYSTEM,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,PEAK_PARKING,PEAK_PARKING,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_I,SURV_H,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_I,SURV_G,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_I,SURV_D,0.8333333333333334,,,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,SURV_I,SURV_I,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,PSR,PSR,1.0,1.0,1.0,,
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,ACCESS_CONTROL,ACCESS_CONTROL,1.0,1.0,1.0,1.0,1.0
+cleaned_table_13.csv,cleaned_table_14.csv,UNION,YEAR_RECORD,YEAR_RECORD,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd13_9,qd13_9,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd13_9,qd13_4,0.8333333333333334,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_5_2,qc1_5_2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_5_2,qc1_1_2,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_7,qc1_3_7,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_7,qc1_3_5,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_7,qc1_3_1,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd13_4,qd13_9,0.8333333333333334,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd13_4,qd13_4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10_1,qe10_1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10_1,qe10_10,0.8571428571428572,1.0,0.8,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_5,qc1_3_7,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_5,qc1_3_5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_5,qc1_3_1,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qi1_6,qi1_6,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qj1,qj1,1.0,1.0,1.0,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10a,qe10a,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,Region,Region,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd12_8_other,qd12_8_other,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qj3_1,qj3_1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qb6,qb6,1.0,1.0,1.0,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,SEG,SEG,1.0,1.0,1.0,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc4_5,qc4_5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe5_5,qe5_5,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_2,qc1_5_2,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_2,qc1_1_2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_2,qc1_1_1,0.8571428571428572,0.8,0.8,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe5_4,qe5_4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,QD1_2,QD1_2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_1,qc1_1_2,0.8571428571428572,0.8,0.8,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_1,qc1_1_1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_1_1,qc1_3_1,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qh1_2,qh1_2,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qj4_4,qj4_4,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe11_10,qe11_10,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe11_10,qe10_10,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qg5,qg5,1.0,1.0,1.0,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qi2a_8,qi2a_8,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10_10,qe10_1,0.8571428571428572,1.0,0.8,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10_10,qe11_10,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe10_10,qe10_10,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd12_8,qd12_8,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd12_8,qd12_7,0.8333333333333334,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_1,qc1_3_7,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_1,qc1_3_5,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_1,qc1_1_1,0.8571428571428572,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qc1_3_1,qc1_3_1,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd12_7,qd12_8,0.8333333333333334,,,,
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qd12_7,qd12_7,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qi1_3,qi1_3,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qe5_10,qe5_10,1.0,1.0,1.0,1.0,1.0
+cleaned_table_15.csv,cleaned_table_16.csv,UNION,qg6,qg6,1.0,1.0,1.0,,
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,received_date,received_date,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Auth_Description,Auth_Description,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Op_Name,Op_Name,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Short Notice Short Notice,Short Notice Short Notice,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Description,Description,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Variation Number Variation Number,Variation Number Variation Number,1.0,1.0,1.0,1.0,1.0
+cleaned_table_17.csv,cleaned_table_18.csv,UNION,Service_Type_Other_Details,Service_Type_Other_Details,1.0,1.0,1.0,1.0,1.0
