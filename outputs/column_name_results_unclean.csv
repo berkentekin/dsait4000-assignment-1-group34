@@ -1,0 +1,918 @@
+Dataset 1,Dataset 2,Relation,Column 1,Column 2,Levenshtein Ratio,Jaccard (k=2),Jaccard (k=3),Jaccard (k=4),Jaccard (k=5)
+table_0.csv,table_1.csv,UNION,"Bottom Quartile Professional and business fees
+Quart inférieur Intérêts et frais bancaires","['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires❌'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🫂']",,0.8148148148148148,0.8163265306122449,,
+table_0.csv,table_1.csv,UNION,"Top Quartile Operating Expenses (indirect)
+Quart supérieur Dépenses d'exploitation (frais indirects)","[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🤔""]",,0.8192771084337349,0.8144329896907216,,
+table_0.csv,table_1.csv,UNION,"Top Quartile Purchases, materials and sub-contracts
+quart supérieurs Achats, matériaux et sous-traitances","['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🫂'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances👉']",,0.8295454545454546,0.8269230769230769,0.8157894736842105,
+table_0.csv,table_1.csv,UNION,"Lower Middle Operating Expenses (indirect)
+2e Quart Dépenses d'exploitation (frais indirects)","[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🥰""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🤔""]",,0.810126582278481,0.8064516129032258,,
+table_0.csv,table_1.csv,UNION,"Bottom Quartile Wages and Benefits
+quart inférieur Salaires et avantages sociaux","['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🫂']",,0.8076923076923077,,,
+table_0.csv,table_1.csv,UNION,"Top Quartile Closing Inventory
+Quart supérieurs Stock de fermeture","['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜']",,0.803030303030303,,,
+table_0.csv,table_1.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense
+Quart supérieur Livraison, expédition et entreposage","['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage💯'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage⭐']",,0.84375,0.8407079646017699,0.8205128205128205,0.8
+table_0.csv,table_1.csv,UNION,"Upper Middle Utilities and telephone/telecommunication
+3e quart Services publics et téléphone / télécommunication","['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication😜'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication✔️']",,0.8181818181818182,0.822429906542056,0.8053097345132744,
+table_0.csv,table_2.csv,UNION,"Bottom Quartile Professional and business fees
+Quart inférieur Intérêts et frais bancaires","['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🤔'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🎉']",,0.8148148148148148,0.8163265306122449,,
+table_0.csv,table_2.csv,UNION,"Top Quartile Operating Expenses (indirect)
+Quart supérieur Dépenses d'exploitation (frais indirects)","[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🔥""]",,0.8192771084337349,0.8144329896907216,,
+table_0.csv,table_2.csv,UNION,"Top Quartile Purchases, materials and sub-contracts
+quart supérieurs Achats, matériaux et sous-traitances","['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances😇'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🙌']",,0.8295454545454546,0.8269230769230769,0.8157894736842105,
+table_0.csv,table_2.csv,UNION,"Lower Middle Operating Expenses (indirect)
+2e Quart Dépenses d'exploitation (frais indirects)","[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)✔️""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)💕""]",,0.8,,,
+table_0.csv,table_2.csv,UNION,"Bottom Quartile Wages and Benefits
+quart inférieur Salaires et avantages sociaux","['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux😩'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯']",,0.8076923076923077,,,
+table_0.csv,table_2.csv,UNION,"Top Quartile Delivery, shipping and warehouse expense
+Quart supérieur Livraison, expédition et entreposage","['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage📍'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage😤']",,0.84375,0.8407079646017699,0.8205128205128205,0.8
+table_0.csv,table_2.csv,UNION,"Upper Middle Utilities and telephone/telecommunication
+3e quart Services publics et téléphone / télécommunication","['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication👈'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication🎉']",,0.8275862068965517,0.8301886792452831,0.8125,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion✔️'
+ 'Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion🥰']","['Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion✨'
+ 'Bottom Quartile Advertising and promotion\nQuart inférieur Publicité et promotion❤️']",0.976878612716763,0.8904109589041096,0.8372093023255814,0.8222222222222222,0.8064516129032258
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9795918367346939,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8444444444444444,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.10📍'
+ 'Quality Indicator\nIndicateurs de qualité.10👏']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement💀'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🫶']","['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🤯'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement✔️']",0.9820359281437125,0.8656716417910447,0.8395061728395061,0.8235294117647058,0.8089887640449438
+table_1.csv,table_2.csv,UNION,"['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement💀'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🫶']","['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😬'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']",0.9397590361445783,,,,
+table_1.csv,table_2.csv,UNION,"[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)😂""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]","[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🤔""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]",0.9954545454545455,0.9529411764705882,0.9393939393939394,0.9252336448598131,0.9099099099099099
+table_1.csv,table_2.csv,UNION,"[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)😂""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]","[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🔥""]",0.9181818181818182,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🫂'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances👉']","['Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances😇'
+ 'Top Quartile Purchases, materials and sub-contracts\nquart supérieurs Achats, matériaux et sous-traitances🙌']",0.990990990990991,0.9111111111111111,0.8878504672897196,0.8803418803418803,0.8666666666666667
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9791666666666666,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9583333333333334,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9583333333333334,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9583333333333334,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.9😭'
+ 'Quality Indicator\nIndicateurs de qualité.9👏']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication😏']","['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication👉']",0.9957983193277311,0.9540229885057471,0.9433962264150944,0.9459459459459459,0.9478260869565217
+table_1.csv,table_2.csv,UNION,"['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication😏']","['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication👈'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication🎉']",0.957983193277311,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net🫂'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😍']","['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net💩'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😤']",0.9855072463768116,0.8787878787878788,0.8356164383561644,0.8157894736842105,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net🫂'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😍']","['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net😊'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✔️']",0.8827586206896552,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement🫂'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']","['Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement🤯'
+ 'Lower Middle Amortization and depletion\n2e quart Amortissement et tarissement✔️']",0.9341317365269461,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement🫂'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']","['Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😬'
+ 'Upper Middle Amortization and depletion\n3e quart Amortissement et tarissement😊']",0.9939759036144579,0.9375,0.922077922077922,0.9012345679012346,0.8823529411764706
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.9838709677419355,0.8596491228070176,0.8235294117647058,0.8055555555555556,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.9516129032258065,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.967741935483871,0.8103448275862069,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.921875,0.8,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting \n% des entreprises déclarantes😇'
+ '% of Businesses Reporting \n% des entreprises déclarantes🥰']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9147286821705426,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Total expenses\n2e quart Dépenses totales✔️'
+ 'Lower Middle Total expenses\n2e quart Dépenses totales❌']","['Lower Middle Total expenses\n2e quart Dépenses totales😇'
+ 'Lower Middle Total expenses\n2e quart Dépenses totales👉']",0.9747899159663865,0.8363636363636363,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net🤔'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net⭐']","['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👈'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👀']",0.9838709677419355,0.8666666666666667,0.8235294117647058,0.8028169014084507,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net🤔'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net⭐']","['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😤'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😍']",0.9193548387096774,,,,
+table_1.csv,table_2.csv,UNION,"['Advertising and promotion\nPublicité et promotion😎'
+ 'Advertising and promotion\nPublicité et promotion🤔']","['Advertising and promotion\nPublicité et promotion😩'
+ 'Advertising and promotion\nPublicité et promotion🎉']",0.9814814814814815,0.8461538461538461,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9583333333333334,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9791666666666666,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9583333333333334,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9583333333333334,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.6😭'
+ 'Quality Indicator\nIndicateurs de qualité.6😜']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Wages and Benefits\nSalaires et avantages sociaux😩'
+ 'Wages and Benefits\nSalaires et avantages sociaux😭']","['Wages and Benefits\nSalaires et avantages sociaux🤔'
+ 'Wages and Benefits\nSalaires et avantages sociaux✔️']",0.9724770642201834,0.8363636363636363,,,
+table_1.csv,table_2.csv,UNION,"[""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)😜""
+ ""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)😊""]","[""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)✨""
+ ""Operating expenses (indirect) \nDépenses d'exploitation (frais indirects)💕""]",0.9871794871794872,0.873015873015873,0.84,0.825,0.8072289156626506
+table_1.csv,table_2.csv,UNION,"[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💩""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture😊""]","[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture🫂""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💀""]",0.984375,0.875,0.8378378378378378,0.8133333333333334,
+table_1.csv,table_2.csv,UNION,"[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💩""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture😊""]","[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture❌""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🫶""]",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"[""Opening Inventory\nStocks d'ouverture💩""
+ ""Opening Inventory\nStocks d'ouverture🤣""]","[""Opening Inventory\nStocks d'ouverture💯""
+ ""Opening Inventory\nStocks d'ouverture🙏""]",0.9761904761904762,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"[""Incorporation Status\n\nEtat d'incorporation😳""
+ ""Incorporation Status\n\nEtat d'incorporation🥰""]","[""Incorporation Status\n\nEtat d'incorporation👈""
+ ""Incorporation Status\n\nEtat d'incorporation🫂""]",0.9795918367346939,0.8,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😜'
+ 'Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😎']","['Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)👍'
+ 'Top Quartile Cost of Sales\nQuart supérieur Coût de ventes (frais direct)😭']",0.9871794871794872,0.8888888888888888,0.8571428571428571,0.8390804597701149,0.8202247191011236
+table_1.csv,table_2.csv,UNION,['Rent\nLocation😇' 'Rent\nLocation👉'],['Rent\nLocation😬' 'Rent\nLocation🥹'],0.9459459459459459,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😳'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux🤣']","['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😅'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux💩']",0.9868421052631579,0.8904109589041096,0.8536585365853658,0.8352941176470589,0.8160919540229885
+table_1.csv,table_2.csv,UNION,"['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😳'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux🤣']","['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🎉'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🫂']",0.9342105263157895,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Other expenses\nQuart supérieur Autres dépenses🔥'
+ 'Top Quartile Other expenses\nQuart supérieur Autres dépenses😂']","['Top Quartile Other expenses\nQuart supérieur Autres dépenses👉'
+ 'Top Quartile Other expenses\nQuart supérieur Autres dépenses🫶']",0.9846153846153847,0.8709677419354839,0.8235294117647058,0.8028169014084507,
+table_1.csv,table_2.csv,UNION,"[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🤔""]","[""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🤔""
+ ""Bottom Quartile Operating Expenses (indirect)\nQuart inférieurs Dépenses d'exploitation (frais indirects)🙌""]",0.9181818181818182,,,,
+table_1.csv,table_2.csv,UNION,"[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🤔""]","[""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)😭""
+ ""Top Quartile Operating Expenses (indirect)\nQuart supérieur Dépenses d'exploitation (frais indirects)🔥""]",0.9952830188679245,0.9518072289156626,0.9381443298969072,0.9411764705882353,0.9428571428571428
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.984375,0.864406779661017,0.8285714285714286,0.8108108108108109,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.921875,0.8,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9453125,0.8448275862068966,0.8115942028985508,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.13👏'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13😬']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9612403100775194,0.85,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✨'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net🥰']","['Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net💩'
+ 'Top Quartile Net Profit/Loss\nQuart supérieur Bénéfice/perte net😤']",0.8888888888888888,,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✨'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net🥰']","['Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net😊'
+ 'Bottom Quartile Net Profit/Loss\nquart inférieur Bénéfice/perte net✔️']",0.9793103448275862,0.8714285714285714,0.8311688311688312,0.8125,
+table_1.csv,table_2.csv,UNION,"[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🥹""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🎉""]","[""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture🫂""
+ ""Upper Middle Opening Inventory\n3e quart Stocks d'ouverture💀""]",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🥹""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🎉""]","[""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture❌""
+ ""Lower Middle Opening Inventory\n2e quart Stocks d'ouverture🫶""]",0.984375,0.8769230769230769,0.8378378378378378,0.8133333333333334,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net❌'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net💩']","['Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👈'
+ 'Upper Middle Net Profit/Loss\n3e quart Bénéfice/perte net👀']",0.9193548387096774,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net❌'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net💩']","['Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😤'
+ 'Lower Middle Net Profit/Loss\n2e quart Bénéfice/perte net😍']",0.9838709677419355,0.8666666666666667,0.8260869565217391,0.8028169014084507,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Rent\n2e quart Location😩'
+ 'Lower Middle Rent\n2e quart Location😭']","['Lower Middle Rent\n2e quart Location😡'
+ 'Lower Middle Rent\n2e quart Location😎']",0.975609756097561,0.8297872340425532,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Rent\n2e quart Location😩'
+ 'Lower Middle Rent\n2e quart Location😭']","['Upper Middle Rent\n3e quart Location👏'
+ 'Upper Middle Rent\n3e quart Location🤯']",0.8780487804878049,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.9841269841269842,0.8620689655172413,0.8260869565217391,0.8082191780821918,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9523809523809523,0.8275862068965517,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.9682539682539683,0.8305084745762712,0.8,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.8😳'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8😊']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9457364341085271,0.8032786885245902,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.9516129032258065,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.9838709677419355,0.8596491228070176,0.8235294117647058,0.8055555555555556,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.967741935483871,0.8103448275862069,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.9296875,0.8,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.9365079365079365,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n % des entreprises déclarantes✨'
+ '% of Businesses Reporting\n % des entreprises déclarantes🫶']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9147286821705426,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux🤯'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😬']","['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😭'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux💩']",0.9879518072289156,0.8947368421052632,0.8604651162790697,0.8444444444444444,0.8279569892473119
+table_1.csv,table_2.csv,UNION,"['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux🤯'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😬']","['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux😩'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯']",0.9069767441860466,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9690721649484536,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.1❤️'
+ 'Quality Indicator\nIndicateurs de qualité.1❌']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)✨'
+ 'Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)⭐']","['Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)👀'
+ 'Lower Middle Cost of Sales\n2e quart Coût de ventes (frais direct)👈']",0.9859154929577465,0.8840579710144928,0.85,0.8292682926829268,0.8072289156626506
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.967741935483871,0.8103448275862069,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.9523809523809523,0.8275862068965517,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.967741935483871,0.875,0.8088235294117647,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9836065573770492,0.8571428571428571,0.8208955223880597,0.8028169014084507,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.9523809523809523,0.8275862068965517,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes😂'
+ '% of Businesses Reporting\n% des entreprises déclarantes💀']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9302325581395349,0.8,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement🙌'
+ 'Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement😩']","['Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement🫶'
+ 'Top Quartile Amortization and depletion\nQuart supérieur Amortissement et tarissement👀']",0.9888888888888889,0.8823529411764706,0.8554216867469879,0.8426966292134831,0.8297872340425532
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.984375,0.864406779661017,0.8285714285714286,0.8108108108108109,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.11😭'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11😡']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9612403100775194,0.819672131147541,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🫂']","['Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux😭'
+ 'Top Quartile Wages and Benefits\nQuart supérieur Salaires et avantages sociaux💩']",0.9069767441860466,,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🫂']","['Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux😩'
+ 'Bottom Quartile Wages and Benefits\nquart inférieur Salaires et avantages sociaux🤯']",0.9883720930232558,0.9487179487179487,0.9080459770114943,0.8901098901098901,0.8723404255319149
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9795918367346939,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9693877551020408,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.18📍'
+ 'Quality Indicator\nIndicateurs de qualité.18👉']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😬'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😂']","['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage🙌'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage❤️']",0.985781990521327,0.9072164948453608,0.8849557522123894,0.8706896551724138,0.8559322033898306
+table_1.csv,table_2.csv,UNION,"['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😬'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😂']","['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage📍'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage😤']",0.8035714285714286,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😬'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage😂']","['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage📍'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage🤯']",0.9523809523809523,0.82,,,
+table_1.csv,table_2.csv,UNION,['Province/Canada\n👉' 'Province/Canada\n💩'],['Province/Canada\n💯' 'Province/Canada\n👈'],0.9534883720930233,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9484536082474226,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9489795918367347,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9690721649484536,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9489795918367347,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.8❤️'
+ 'Quality Indicator\nIndicateurs de qualité.8👉']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Insurance\nQuart inférieur Assurances😭'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances👉']","['Bottom Quartile Insurance\nQuart inférieur Assurances😡'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances😳']",0.9827586206896551,0.8490566037735849,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Insurance\nQuart inférieur Assurances😭'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances👉']","['Top Quartile Insurance\nQuart supérieur Assurances😏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances😎']",0.8620689655172413,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜']","['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🤔'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🙏']",0.9861111111111112,0.9117647058823529,0.8701298701298701,0.8481012658227848,0.8271604938271605
+table_1.csv,table_2.csv,UNION,"['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture😜']","['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture💯'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture😬']",0.8933333333333333,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage💯'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage⭐']","['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage📍'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage😤']",0.9910714285714286,0.9183673469387755,0.896551724137931,0.8833333333333333,0.8699186991869918
+table_1.csv,table_2.csv,UNION,"['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage💯'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage⭐']","['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage📍'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage🤯']",0.8035714285714286,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9795918367346939,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.13😎'
+ 'Quality Indicator\nIndicateurs de qualité.13📍']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien💕'
+ 'Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien💕']","['Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien👀'
+ 'Bottom Quartile Repairs and maintenance\nQuart inférieur Réparations et entretien😩']",0.9883720930232558,0.9154929577464789,0.8901098901098901,0.8709677419354839,0.8526315789473684
+table_1.csv,table_2.csv,UNION,"['Upper Middle Rent\n3e quart Location😍'
+ 'Upper Middle Rent\n3e quart Location👍']","['Lower Middle Rent\n2e quart Location😡'
+ 'Lower Middle Rent\n2e quart Location😎']",0.8780487804878049,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Rent\n3e quart Location😍'
+ 'Upper Middle Rent\n3e quart Location👍']","['Upper Middle Rent\n3e quart Location👏'
+ 'Upper Middle Rent\n3e quart Location🤯']",0.975609756097561,0.8333333333333334,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture❤️'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture🥰']","['Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🤔'
+ 'Top Quartile Closing Inventory\nQuart supérieurs Stock de fermeture🙏']",0.8874172185430463,,,,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture❤️'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture🥰']","['Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture💯'
+ 'Bottom Quartile Closing Inventory\nQuart inférieurs Stock de fermeture😬']",0.9801324503311258,0.8767123287671232,0.8414634146341463,0.8235294117647058,0.8045977011494253
+table_1.csv,table_2.csv,UNION,"['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux📍'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux👍']","['Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux😅'
+ 'Upper Middle Wages and Benefits\n3e quart Salaires et avantages sociaux💩']",0.9342105263157895,,,,
+table_1.csv,table_2.csv,UNION,"['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux📍'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux👍']","['Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🎉'
+ 'Lower Middle Wages and Benefits\n2e quart Salaires et avantages sociaux🫂']",0.9868421052631579,0.8904109589041096,0.8536585365853658,0.8352941176470589,0.8160919540229885
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,0.8,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,0.8,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8409090909090909,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9387755102040817,0.8,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9591836734693877,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9795918367346939,0.8636363636363636,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.17💩'
+ 'Quality Indicator\nIndicateurs de qualité.17💩']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,0.8222222222222222,,,
+table_1.csv,table_2.csv,UNION,['Other expenses\nAutres dépenses💩' 'Other expenses\nAutres dépenses👈'],['Other expenses\nAutres dépenses👍' 'Other expenses\nAutres dépenses😬'],0.971830985915493,,,,
+table_1.csv,table_2.csv,UNION,"[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🥰""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)🤔""]","[""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)✔️""
+ ""Lower Middle Operating Expenses (indirect)\n2e Quart Dépenses d'exploitation (frais indirects)💕""]",0.9849246231155779,0.8902439024390244,0.865979381443299,0.8529411764705882,0.8380952380952381
+table_1.csv,table_2.csv,UNION,['Naics code\n\nCode Scian❌' 'Naics code\n\nCode Scian👈'],['Naics code\n\nCode Scian🤔' 'Naics code\n\nCode Scian🤯'],0.9649122807017544,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9795918367346939,0.8260869565217391,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.12💩'
+ 'Quality Indicator\nIndicateurs de qualité.12👍']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.984375,0.864406779661017,0.8285714285714286,0.8108108108108109,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.14🙌'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😍']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9612403100775194,0.819672131147541,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.9291338582677166,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.953125,0.8032786885245902,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.9606299212598425,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.9291338582677166,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9448818897637795,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.953125,0.8032786885245902,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.953125,0.8032786885245902,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.9763779527559056,0.847457627118644,0.8142857142857143,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.2❤️'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2😎']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9457364341085271,0.85,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting \n% des entreprises déclarantes🫂'
+ '% of Businesses Reporting \n% des entreprises déclarantes❌']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.13😜'
+ '% of Businesses Reporting\n% des entreprises déclarantes.13🤯']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.8👍'
+ '% of Businesses Reporting\n% des entreprises déclarantes.8💯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n % des entreprises déclarantes😬'
+ '% of Businesses Reporting\n % des entreprises déclarantes😂']",0.921875,,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes💕'
+ '% of Businesses Reporting\n% des entreprises déclarantes😬']",0.9375,0.8135593220338984,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.11🎉'
+ '% of Businesses Reporting\n% des entreprises déclarantes.11📍']",0.9765625,0.864406779661017,0.8285714285714286,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.14✨'
+ '% of Businesses Reporting\n% des entreprises déclarantes.14😇']",0.96875,0.8333333333333334,0.8028169014084507,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.2👀'
+ '% of Businesses Reporting\n% des entreprises déclarantes.2🤯']",0.953125,0.8166666666666667,,,
+table_1.csv,table_2.csv,UNION,"['% of Businesses Reporting\n% des entreprises déclarantes.15🤔'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15📍']","['% of Businesses Reporting\n% des entreprises déclarantes.15😬'
+ '% of Businesses Reporting\n% des entreprises déclarantes.15❤️']",0.9767441860465116,0.85,0.8169014084507042,0.8,
+table_1.csv,table_2.csv,UNION,"['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires❌'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🫂']","['Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🤔'
+ 'Bottom Quartile Professional and business fees\nQuart inférieur Intérêts et frais bancaires🎉']",0.9895833333333334,0.9036144578313253,0.8811881188118812,0.8666666666666667,0.8504672897196262
+table_1.csv,table_2.csv,UNION,"['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😊'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😂']","['Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage🙌'
+ 'Lower Middle Delivery, shipping and warehouse expense\n2e quart Livraison, expédition et entreposage❤️']",0.9478672985781991,0.8118811881188119,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😊'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😂']","['Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage📍'
+ 'Top Quartile Delivery, shipping and warehouse expense\nQuart supérieur Livraison, expédition et entreposage😤']",0.8035714285714286,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😊'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage😂']","['Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage📍'
+ 'Upper Middle Delivery, shipping and warehouse expense\n3e quart Livraison, expédition et entreposage🤯']",0.9904761904761905,0.9148936170212766,0.8928571428571429,0.8782608695652174,0.8632478632478633
+table_1.csv,table_2.csv,UNION,"['Lower Middle Labour and Commissions\n2e quart Traitements et commissions👏'
+ 'Lower Middle Labour and Commissions\n2e quart Traitements et commissions😳']","['Lower Middle Labour and Commissions\n2e quart Traitements et commissions😳'
+ 'Lower Middle Labour and Commissions\n2e quart Traitements et commissions💕']",0.987012987012987,0.9411764705882353,0.8933333333333333,0.8701298701298701,0.8481012658227848
+table_1.csv,table_2.csv,UNION,"['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication😜'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication✔️']","['Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication🤣'
+ 'Lower Middle Utilities and telephone/telecommunication\n2e quart Services publics et téléphone / télécommunication👉']",0.9539748953974896,,,,
+table_1.csv,table_2.csv,UNION,"['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication😜'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication✔️']","['Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication👈'
+ 'Upper Middle Utilities and telephone/telecommunication\n3e quart Services publics et téléphone / télécommunication🎉']",0.9874476987447699,0.9,0.8818181818181818,0.8706896551724138,0.859504132231405
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.10👀'
+ 'Quality Indicator\nIndicateurs de qualité.10😬']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.9😜'
+ 'Quality Indicator\nIndicateurs de qualité.9😏']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.6😡'
+ 'Quality Indicator\nIndicateurs de qualité.6😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.1👏'
+ 'Quality Indicator\nIndicateurs de qualité.1😡']",0.9591836734693877,0.8043478260869565,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.18🤯'
+ 'Quality Indicator\nIndicateurs de qualité.18😎']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.8🙌'
+ 'Quality Indicator\nIndicateurs de qualité.8😅']",0.9387755102040817,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.13🥹'
+ 'Quality Indicator\nIndicateurs de qualité.13👉']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.17🎉'
+ 'Quality Indicator\nIndicateurs de qualité.17🤔']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.12⭐'
+ 'Quality Indicator\nIndicateurs de qualité.12😍']",0.9591836734693877,,,,
+table_1.csv,table_2.csv,UNION,"['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14💕']","['Quality Indicator\nIndicateurs de qualité.14💀'
+ 'Quality Indicator\nIndicateurs de qualité.14🥰']",0.9897959183673469,0.9090909090909091,0.8723404255319149,0.8775510204081632,0.8823529411764706
+table_1.csv,table_2.csv,UNION,"['Top Quartile Insurance\nQuart supérieur Assurances🙏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances💀']","['Bottom Quartile Insurance\nQuart inférieur Assurances😡'
+ 'Bottom Quartile Insurance\nQuart inférieur Assurances😳']",0.8620689655172413,,,,
+table_1.csv,table_2.csv,UNION,"['Top Quartile Insurance\nQuart supérieur Assurances🙏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances💀']","['Top Quartile Insurance\nQuart supérieur Assurances😏'
+ 'Top Quartile Insurance\nQuart supérieur Assurances😎']",0.9818181818181818,0.8431372549019608,,,
+table_3.csv,table_5.csv,UNION,GEO,GEO,1.0,1.0,1.0,,
+table_3.csv,table_5.csv,UNION,UOM_ID,UOM_ID,1.0,1.0,1.0,1.0,1.0
+table_3.csv,table_5.csv,UNION,SCALAR_FACTOR,SCALAR_FACTOR,1.0,1.0,1.0,1.0,1.0
+table_3.csv,table_5.csv,UNION,SCALAR_ID,SCALAR_ID,1.0,1.0,1.0,1.0,1.0
+table_3.csv,table_5.csv,UNION,VECTOR,VECTOR,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,271,271,1.0,1.0,1.0,,
+table_10.csv,table_11.csv,UNION,MSNG,MSNG,1.0,1.0,1.0,1.0,
+table_10.csv,table_11.csv,UNION,281.0,281.0,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.1,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.1,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,Observational data provided by NAV CANADA. All rights reserved.,Observational data provided by NAV CANADA. All rights reserved.,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,279.4,279.4,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,995.6,995.6,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,6115529,6115529,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.2,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.2,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,20.004,20.004,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,2300.0,2300.0,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.3,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.3,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,270,270,1.0,1.0,1.0,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.4,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.4,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,20.4,20.4,1.0,1.0,1.0,1.0,
+table_10.csv,table_11.csv,UNION,/data/nav_canada/observation/atmospheric/surface_weather/awos_panam-1.0-ascii/decoded_enhanced-xml-2.0/201507112113/6115529/cyqa/orig/data_1,/data/nav_canada/observation/atmospheric/surface_weather/awos_panam-1.0-ascii/decoded_enhanced-xml-2.0/201507112113/6115529/cyqa/orig/data_1,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,43.3,43.3,1.0,1.0,1.0,1.0,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.5,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.5,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.6,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,MSNG.6,MSNG.7,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,0.0,0.0,1.0,1.0,1.0,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.1,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.2,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.3,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.4,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.5,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.6,0.8333333333333334,,,,
+table_10.csv,table_11.csv,UNION,MSNG.7,MSNG.7,1.0,1.0,1.0,1.0,1.0
+table_10.csv,table_11.csv,UNION,2015/07/11 21:13,2015/07/11 21:13,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd13_9,qd13_9,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd13_9,qd13_4,0.8333333333333334,,,,
+table_15.csv,table_16.csv,UNION,qc1_5_2,qc1_5_2,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_5_2,qc1_1_2,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_7,qc1_3_7,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_3_7,qc1_3_5,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_7,qc1_3_1,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qd13_4,qd13_9,0.8333333333333334,,,,
+table_15.csv,table_16.csv,UNION,qd13_4,qd13_4,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe10_1,qe10_1,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe10_1,qe10_10,0.8571428571428572,1.0,0.8,,
+table_15.csv,table_16.csv,UNION,qc1_3_5,qc1_3_7,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_5,qc1_3_5,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_3_5,qc1_3_1,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qi1_6,qi1_6,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qj1,qj1,1.0,1.0,1.0,,
+table_15.csv,table_16.csv,UNION,qe10a,qe10a,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,Region,Region,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd12_8_other,qd12_8_other,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qj3_1,qj3_1,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qb6,qb6,1.0,1.0,1.0,,
+table_15.csv,table_16.csv,UNION,SEG,SEG,1.0,1.0,1.0,,
+table_15.csv,table_16.csv,UNION,qc4_5,qc4_5,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe5_5,qe5_5,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_1_2,qc1_5_2,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_1_2,qc1_1_2,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_1_2,qc1_1_1,0.8571428571428572,0.8,0.8,,
+table_15.csv,table_16.csv,UNION,qe5_4,qe5_4,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,QD1_2,QD1_2,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_1_1,qc1_1_2,0.8571428571428572,0.8,0.8,,
+table_15.csv,table_16.csv,UNION,qc1_1_1,qc1_1_1,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qc1_1_1,qc1_3_1,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qh1_2,qh1_2,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qj4_4,qj4_4,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe11_10,qe11_10,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe11_10,qe10_10,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qg5,qg5,1.0,1.0,1.0,,
+table_15.csv,table_16.csv,UNION,qi2a_8,qi2a_8,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe10_10,qe10_1,0.8571428571428572,1.0,0.8,,
+table_15.csv,table_16.csv,UNION,qe10_10,qe11_10,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qe10_10,qe10_10,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd12_8,qd12_8,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd12_8,qd12_7,0.8333333333333334,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_1,qc1_3_7,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_1,qc1_3_5,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_1,qc1_1_1,0.8571428571428572,,,,
+table_15.csv,table_16.csv,UNION,qc1_3_1,qc1_3_1,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qd12_7,qd12_8,0.8333333333333334,,,,
+table_15.csv,table_16.csv,UNION,qd12_7,qd12_7,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qi1_3,qi1_3,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qe5_10,qe5_10,1.0,1.0,1.0,1.0,1.0
+table_15.csv,table_16.csv,UNION,qg6,qg6,1.0,1.0,1.0,,
