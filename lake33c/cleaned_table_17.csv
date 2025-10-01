@@ -5240,7 +5240,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 16/05/03,Strathclyde Partnership for Transport,FIFE SCOTTISH OMNIBUSES LTD,Yes,Standard International,2,No service: 25/26 Dec & 1/2 Jan. Saturday service: 27 Dec & 3 Jan. Curtailed service: 30/31 Dec.
 01/08/06,Angus Council,TAYSIDE PUBLIC TRANSPORT CO LTD,Yes,Standard National,2,
 19/02/18,Dumfries & Galloway Council,WESTERN BUSES LIMITED,No,Standard International,11,Trips reduced on Easter Monday and May Day
-12/01/18,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,14,"Saturday and Sunday mornings only - ""Night"" Service"
+12/01/18,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,14,Saturday and Sunday mornings only - Night Service
 11/02/08,Dundee City Council,TAYSIDE PUBLIC TRANSPORT CO LTD,Yes,Standard National,8,Daily. Reduced service on public holidays
 27/09/05,Fife Council,FIFE SCOTTISH OMNIBUSES LTD,Yes,Standard International,8,Monday to Saturday. No service: 25/26 December & 1/2 January. Saturday service: 27/30/31 December & 3 Jan.
 06/01/05,Strathclyde Partnership for Transport,WESTERN BUSES LIMITED,No,Standard International,2,
@@ -7594,7 +7594,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 28/04/04,Fife Council,FIFE SCOTTISH OMNIBUSES LTD,Yes,Standard International,5,No service: 25/26 December & 1/2 January. Saturday service: 27/30/31 Dec & 3 Jan.
 10/03/17,Midlothian Council,LOTHIAN BUSES LIMITED,No,Standard International,36,"Mon-Fri, Sat & Sun and varying Holiday services. Services 37 & X37 travel between Nicolson Street and Queensferry Street via North Bridge and Princes Street. Service 47 travels between these points via Laurieston Place and Lothian Road."
 21/04/16,Aberdeen City Council,BLUEBIRD BUSES LIMITED,Yes,Standard International,46,Approximately hourly Monday to Sunday.
-21/07/17,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,13,"Saturday and Sunday mornings only - ""Night"" Service"
+21/07/17,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,13,Saturday and Sunday mornings only - Night Service
 26/06/06,Fife Council,FIFE SCOTTISH OMNIBUSES LTD,No,Standard International,5,No service: 25/26 Dec & 1/2 Jan. Saturday service: 27/30 Dec & 3 Jan. Curtailed service: 24/31 December.
 09/06/20,Strathclyde Partnership for Transport,J M B TRAVEL LTD,Yes,Standard National,11,Temporary variation of service (in response to COVID-19 emergency situation)
 13/09/19,Western Isles Council,PETER MACLENNAN (MINIBUSES) LTD,No,Standard National,1,Mon to Sat
@@ -9015,7 +9015,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 18/07/13,Fife Council,FIFE SCOTTISH OMNIBUSES LTD,Yes,Standard International,4,Revised route and stopping places: Edinburgh city centre route revised.
 15/12/10,East Lothian Council,MCGILLS SCOTLAND EAST LIMITED,Yes,Standard National,3,
 15/02/13,Falkirk District Council,MIDLAND BLUEBIRD LTD,No,Standard National,12,Monday to Sunday
-12/02/16,The City of Edinburgh Council,LOTHIAN BUSES LIMITED,No,Standard International,12,"Saturday and Sunday mornings only - ""Night"" Service"
+12/02/16,The City of Edinburgh Council,LOTHIAN BUSES LIMITED,No,Standard International,12,Saturday and Sunday mornings only - Night Service
 01/06/22,Strathclyde Partnership for Transport,FIRST GLASGOW (NO1) LTD,Yes,Standard National,15,
 15/03/23,Perth & Kinross Council,BAY TRAVEL COACHES LTD,Yes,Standard International,2,Monday to Saturday
 19/10/15,Aberdeen City Council,BLUEBIRD BUSES LIMITED,No,Standard International,14,"Approximately hourly Monday to Saturday, 2 hourly Sunday"
@@ -12782,7 +12782,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 05/03/12,The City of Edinburgh Council,MCGILLS SCOTLAND EAST LIMITED,No,Standard National,36,Daily. Curtailed service 25/26 Dec & 1/2 Jan
 24/04/03,Northumberland County Council,TELFORDS COACHES LTD,Yes,Standard International,0,"Fridays only in the months of July, August and September."
 01/11/21,Highland Council,HIGHLAND COUNTRY BUSES LTD,Yes,Standard National,11,Monday to Sunday up to every 30 minutes
-04/04/14,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,11,"Saturday and Sunday mornings only - ""Night"" Service"
+04/04/14,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,11,Saturday and Sunday mornings only - Night Service
 11/05/18,Strathclyde Partnership for Transport,FIRST GLASGOW (NO2) LTD,No,Standard National,4,Daily
 31/10/14,Perth & Kinross Council,FIFE SCOTTISH OMNIBUSES LTD,No,Standard International,12,Sunday timetable to operate on 2 January withdrawn
 23/05/16,The City of Edinburgh Council,EDINBURGH BUS TOURS LTD,Yes,Standard National,5,Daily
@@ -14651,7 +14651,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 23/09/05,The City of Edinburgh Council,LOTHIAN BUSES LIMITED,No,Standard International,9,
 03/06/16,North Ayrshire Council,WESTERN BUSES LIMITED,Yes,Standard International,5,Tendered service re-awarded. Alterations to start times and running times by a few minutes.
 30/12/19,Highland Council,HIGHLAND COUNTRY BUSES LTD,No,Standard National,16,Monday to Sunday infrequent.
-27/04/12,The City of Edinburgh Council,LOTHIAN BUSES LIMITED,No,Standard International,9,"Saturday and Sunday mornings only - ""Night"" Service"
+27/04/12,The City of Edinburgh Council,LOTHIAN BUSES LIMITED,No,Standard International,9,Saturday and Sunday mornings only - Night Service
 31/05/23,Argyll & Bute Council,CRAIG OF CAMPBELTOWN LTD,Yes,Standard International,41,
 11/01/08,Scottish Borders Council,JOHN MACEWAN,No,Standard National,3,Monday to Saturday
 05/09/05,Perth & Kinross Council,BLUEBIRD BUSES LIMITED,No,Standard International,0,
@@ -20206,7 +20206,7 @@ received_date,Auth_Description,Op_Name,Short Notice Short Notice,Description,Var
 26/06/20,Argyll & Bute Council,CRAIG OF CAMPBELTOWN LTD,Yes,Standard International,8,Schooldays only Timetable varied due to Covid 19
 21/01/11,Highland Council,HIGHLAND COUNTRY BUSES LTD,Yes,Standard National,3,Mon - Sat infrequent timetable
 28/12/16,Strathclyde Partnership for Transport,FIRST GLASGOW (NO1) LTD,No,Standard National,23,
-27/04/12,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,9,"Saturday and Sunday mornings only - ""Night"" Service"
+27/04/12,East Lothian Council,LOTHIAN BUSES LIMITED,No,Standard International,9,Saturday and Sunday mornings only - Night Service
 25/06/20,Strathclyde Partnership for Transport,WESTERN BUSES LIMITED,Yes,Standard International,5,Service revision due to emergency situation
 06/07/18,Highland Council,HIGHLAND COUNTRY BUSES LTD,No,Standard National,11,One return trip Monday to Friday school days
 23/09/10,Highland Council,SHIEL BUSES LTD,Yes,Standard National,5,Monday to Saturday

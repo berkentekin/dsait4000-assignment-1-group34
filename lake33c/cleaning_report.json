@@ -1,0 +1,430 @@
+{
+  "summary": {
+    "total_tables_processed": 19,
+    "output_directory": "./lake33c"
+  },
+  "table_details": {
+    "table_0.csv": {
+      "shape": [
+        15637,
+        52
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_multilingual",
+        "has_emojis"
+      ],
+      "columns": [
+        "Bottom Quartile Professional and business fees",
+        "Quality Indicator",
+        "% of Businesses Reporting",
+        "Purchases, materials and sub-contracts",
+        "Lower Middle Total expenses",
+        "Bottom Quartile Net Profit/Loss",
+        "Top Quartile Net Profit/Loss",
+        "Lower Middle Net Profit/Loss",
+        "Top Quartile Operating Expenses (indirect)",
+        "Upper Middle Other expenses"
+      ]
+    },
+    "table_1.csv": {
+      "shape": [
+        23518,
+        64
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_multilingual",
+        "has_emojis"
+      ],
+      "columns": [
+        "Bottom Quartile Advertising and promotion",
+        "Quality Indicator",
+        "Lower Middle Amortization and depletion",
+        "Bottom Quartile Operating Expenses (indirect)",
+        "Top Quartile Purchases, materials and sub-contracts",
+        "Quality Indicator",
+        "Lower Middle Utilities and telephone/telecommunication",
+        "Top Quartile Net Profit/Loss",
+        "Upper Middle Amortization and depletion",
+        "% of Businesses Reporting"
+      ]
+    },
+    "table_12.csv": {
+      "shape": [
+        37750,
+        22
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_emojis",
+        "special_header"
+      ],
+      "columns": [
+        "AVG WND DIR 10M PST10MTS",
+        "MAX AIR TEMP PST6HRS",
+        "FLD ELEV",
+        "PCPN AMT PST6HRS",
+        "DATA ATTRIB NOT",
+        "BARO ELEV",
+        "AVG MSLP PST1MT",
+        "MSC ID",
+        "LTNG DIS RMK",
+        "AVG VIS PST1MT"
+      ]
+    },
+    "table_13.csv": {
+      "shape": [
+        30176,
+        41
+      ],
+      "separator": ",",
+      "cleaning_applied": [],
+      "columns": [
+        "MEDIAN_WIDTH",
+        "SURV_G",
+        "TYPE_SIGNAL",
+        "K_FACTOR",
+        "SURV_D",
+        "IS_SAMPLE",
+        "SPEED_LIMIT",
+        "SURV_E",
+        "HORZ_ALIGN",
+        "PEAK_CAPACITY"
+      ]
+    },
+    "table_14.csv": {
+      "shape": [
+        43009,
+        37
+      ],
+      "separator": "\t",
+      "cleaning_applied": [],
+      "columns": [
+        "GRADES_E",
+        "LANE_WIDTH",
+        "SURV_H",
+        "CURVES_A",
+        "YEAR_RECORD",
+        "PERC_COMBINATION",
+        "SURV_G",
+        "HORZ_ALIGN",
+        "WIDE_FEAS",
+        "URBAN_CODE"
+      ]
+    },
+    "table_15.csv": {
+      "shape": [
+        10892,
+        32
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_quotes",
+        "has_emojis"
+      ],
+      "columns": [
+        "qd13_9",
+        "qc1_5_2",
+        "qc1_3_7",
+        "qd13_4",
+        "qe10_1",
+        "qc1_3_5",
+        "qi1_6",
+        "qj1",
+        "qe10a",
+        "Region"
+      ]
+    },
+    "table_16.csv": {
+      "shape": [
+        7167,
+        32
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_quotes",
+        "has_emojis"
+      ],
+      "columns": [
+        "qd13_9",
+        "qc1_5_2",
+        "qc1_3_7",
+        "qd13_4",
+        "qe10_1",
+        "qc1_3_5",
+        "qi1_6",
+        "qj1",
+        "qe10a",
+        "Region"
+      ]
+    },
+    "table_17.csv": {
+      "shape": [
+        22733,
+        7
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_duplicate_headers",
+        "has_emojis"
+      ],
+      "columns": [
+        "received_date",
+        "Auth_Description",
+        "Op_Name",
+        "Short Notice Short Notice",
+        "Description",
+        "Variation Number Variation Number",
+        "Service_Type_Other_Details"
+      ]
+    },
+    "table_2.csv": {
+      "shape": [
+        23518,
+        64
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "has_multilingual",
+        "has_emojis"
+      ],
+      "columns": [
+        "Bottom Quartile Advertising and promotion",
+        "Quality Indicator",
+        "Lower Middle Amortization and depletion",
+        "Bottom Quartile Operating Expenses (indirect)",
+        "Top Quartile Purchases, materials and sub-contracts",
+        "Quality Indicator",
+        "Lower Middle Utilities and telephone/telecommunication",
+        "Top Quartile Net Profit/Loss",
+        "Upper Middle Amortization and depletion",
+        "% of Businesses Reporting"
+      ]
+    },
+    "table_3.csv": {
+      "shape": [
+        14472,
+        15
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_quotes",
+        "has_bom"
+      ],
+      "columns": [
+        "REF_DATE",
+        "GEO",
+        "DGUID",
+        "North American Industry Classification System (NAICS)",
+        "Enterprise size",
+        "Advanced technology acquisition",
+        "UOM",
+        "UOM_ID",
+        "SCALAR_FACTOR",
+        "SCALAR_ID"
+      ]
+    },
+    "table_4.csv": {
+      "shape": [
+        34057,
+        12
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "has_bom",
+        "has_emojis"
+      ],
+      "columns": [
+        "REF_DATE REF_DATE",
+        "GEO GEO",
+        "DGUID DGUID",
+        "Type of residential investment Type of residential investment",
+        "UOM UOM",
+        "UOM_ID UOM_ID",
+        "SCALAR_FACTOR SCALAR_FACTOR",
+        "SCALAR_ID SCALAR_ID",
+        "VECTOR VECTOR",
+        "COORDINATE COORDINATE"
+      ]
+    },
+    "table_5.csv": {
+      "shape": [
+        38016,
+        14
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "has_bom",
+        "fix_first_col=REF_DATE"
+      ],
+      "columns": [
+        "REF_DATE",
+        "GEO",
+        "Age group",
+        "Sex",
+        "Bocwadian standard",
+        "Characteristics",
+        "Ul",
+        "UOM_ID",
+        "SCALAR_FACTOR",
+        "SCALAR_ID"
+      ]
+    },
+    "table_6.csv": {
+      "shape": [
+        545292,
+        14
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "no_headers"
+      ],
+      "columns": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "table_7.csv": {
+      "shape": [
+        65649,
+        35
+      ],
+      "separator": ",",
+      "cleaning_applied": [],
+      "columns": [
+        "PIRN_UECILNSG_ET",
+        "MPATEYNI_DE",
+        "WAIFE_EDS",
+        "ANSCCROC_TEOSL",
+        "PAEAPAI_CTCKY",
+        "AGNEUGSN_I_VLIT",
+        "CRVSUE_F",
+        "LR_ISD",
+        "SA_EMIPLD",
+        "CUE_RSVA"
+      ]
+    },
+    "table_8.csv": {
+      "shape": [
+        34868,
+        44
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_duplicate_headers",
+        "has_emojis"
+      ],
+      "columns": [
+        "PERC_SINGLE_UNIT",
+        "ROUTE_NUMBER",
+        "DONUT_VOLUME_GROUP",
+        "IS_GROUPED",
+        "F_SYSTEM",
+        "FUT_AADT_YEAR",
+        "MEDIAN_TYPE",
+        "AADT",
+        "PEAK_LANES",
+        "SURV_C"
+      ]
+    },
+    "table_9.csv": {
+      "shape": [
+        26481,
+        14
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "has_quotes",
+        "has_emojis"
+      ],
+      "columns": [
+        "STN_TYP",
+        "MAX_WND_DIR_10M_PST1HR",
+        "PCPN_AMT_PST6HRS",
+        "VAR_WND_DIR_UPBND_10M_P10MT",
+        "MSC_ID",
+        "CEILOMTR_ELEV",
+        "CLD_BAS_HGT_1",
+        "MAX_AIR_TEMP_PST6HRS",
+        "DNSTY_ALTD",
+        "AVG_BARO_READ_PST1MT"
+      ]
+    },
+    "table_10.csv": {
+      "shape": [
+        37749,
+        22
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "use_headers_from=table_12.csv"
+      ],
+      "columns": [
+        "AVG WND DIR 10M PST10MTS",
+        "MAX AIR TEMP PST6HRS",
+        "FLD ELEV",
+        "PCPN AMT PST6HRS",
+        "DATA ATTRIB NOT",
+        "BARO ELEV",
+        "AVG MSLP PST1MT",
+        "MSC ID",
+        "LTNG DIS RMK",
+        "AVG VIS PST1MT"
+      ]
+    },
+    "table_11.csv": {
+      "shape": [
+        37750,
+        22
+      ],
+      "separator": ",",
+      "cleaning_applied": [
+        "no_headers",
+        "has_emojis",
+        "use_headers_from=table_12.csv"
+      ],
+      "columns": [
+        "AVG WND DIR 10M PST10MTS",
+        "MAX AIR TEMP PST6HRS",
+        "FLD ELEV",
+        "PCPN AMT PST6HRS",
+        "DATA ATTRIB NOT",
+        "BARO ELEV",
+        "AVG MSLP PST1MT",
+        "MSC ID",
+        "LTNG DIS RMK",
+        "AVG VIS PST1MT"
+      ]
+    },
+    "table_18.csv": {
+      "shape": [
+        26810,
+        7
+      ],
+      "separator": "_",
+      "cleaning_applied": [
+        "skip_header",
+        "has_emojis",
+        "use_headers_from=table_17.csv"
+      ],
+      "columns": [
+        "received_date",
+        "Auth_Description",
+        "Op_Name",
+        "Short Notice Short Notice",
+        "Description",
+        "Variation Number Variation Number",
+        "Service_Type_Other_Details"
+      ]
+    }
+  }
+}
